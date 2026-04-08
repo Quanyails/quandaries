@@ -1,0 +1,8 @@
+ene,niftyaffix
+ese,niftyaffix
+nne,eh
+nnw,eh
+sse,eh
+ssw,eh
+wnw,eh
+wsw,eh

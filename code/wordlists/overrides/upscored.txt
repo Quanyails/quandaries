@@ -1,0 +1,65 @@
+case-by-case basis,nifty
+Mega Millions,niftyname
+cherry vanilla,good
+Yosemite Falls,goodname
+Java files,nifty
+Java file,nifty
+baby bonnet,asset
+peppermint gum,good
+am I losing it,nifty
+bite-size,good
+cringe,asset
+morbidcuriosity,asset
+midquel,asset
+midquels,asset
+go blond,asset
+go blonde,asset
+technobabble,asset
+loyalty card,good
+loyalty cards,good
+lower ones guard,good
+lowers ones guard,good
+lowered ones guard,good
+lowering one sguard,good
+Governator,niftyname
+stress management,nifty
+toyger,nifty
+farm cat,good
+aw phooey,niftyalmost
+mock turtle,niftyname
+cool beans,asset
+aggro,niftyabbrev
+Poisoning Pigeons in the Park,niftyname
+Claus,goodfitb
+NFC West,good
+AFC West,good
+AFC East,good
+NFC East,good
+catio,good
+catios,good
+steak set,good
+steak sets,good
+bad movie,asset
+bad movies,asset
+jank,good
+state dance,good
+Mars,goodname
+Hauser,niftyname
+Milky Way,asset
+Left Twix,asset
+Right Twix,asset
+walkie talkie,asset
+kawaii,untested
+memey,nifty
+Zelle,handyname
+phone plan,good
+phone plans,good
+unagi,good
+Boaty,niftyname
+heck yeah,good
+weeaboo,good
+Tom Holland,good
+hot potato,asset
+couch potato,asset
+couch potatoes,asset
+slices and dices,good

@@ -1,0 +1,844 @@
+{
+  "solution": [
+    [
+      "A",
+      "F",
+      "R",
+      "O",
+      "#",
+      "A",
+      "W",
+      "A",
+      "I",
+      "T",
+      "#",
+      "C",
+      "A",
+      "P",
+      "S"
+    ],
+    [
+      "T",
+      "R",
+      "ICE",
+      "P",
+      "#",
+      "S",
+      "A",
+      "L",
+      "T",
+      "S",
+      "#",
+      "A",
+      "U",
+      "R",
+      "A"
+    ],
+    [
+      "L",
+      "O",
+      "V",
+      "E",
+      "#",
+      "S",
+      "L",
+      "ICE",
+      "S",
+      "A",
+      "N",
+      "D",
+      "D",
+      "ICE",
+      "S"
+    ],
+    [
+      "A",
+      "G",
+      "E",
+      "N",
+      "T",
+      "#",
+      "D",
+      "I",
+      "A",
+      "#",
+      "I",
+      "R",
+      "I",
+      "S",
+      "H"
+    ],
+    [
+      "S",
+      "S",
+      "R",
+      "#",
+      "E",
+      "L",
+      "O",
+      "N",
+      "G",
+      "A",
+      "T",
+      "E",
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "M",
+      "A",
+      "M",
+      "A",
+      "#",
+      "W",
+      "I",
+      "T",
+      "S",
+      "#",
+      "P",
+      "E",
+      "W"
+    ],
+    [
+      "S",
+      "P",
+      "ICE",
+      "R",
+      "U",
+      "B",
+      "#",
+      "O",
+      "F",
+      "T",
+      "#",
+      "G",
+      "O",
+      "B",
+      "I"
+    ],
+    [
+      "T",
+      "A",
+      "L",
+      "K",
+      "#",
+      "C",
+      "A",
+      "N",
+      "T",
+      "I",
+      "#",
+      "O",
+      "L",
+      "A",
+      "F"
+    ],
+    [
+      "O",
+      "W",
+      "L",
+      "S",
+      "#",
+      "O",
+      "D",
+      "D",
+      "#",
+      "M",
+      "A",
+      "G",
+      "ICE",
+      "Y",
+      "E"
+    ],
+    [
+      "P",
+      "S",
+      "I",
+      "#",
+      "M",
+      "A",
+      "L",
+      "E",
+      "#",
+      "E",
+      "C",
+      "H",
+      "O",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      "S",
+      "A",
+      "T",
+      "I",
+      "R",
+      "I",
+      "S",
+      "T",
+      "#",
+      "F",
+      "A",
+      "B"
+    ],
+    [
+      "R",
+      "A",
+      "Z",
+      "O",
+      "R",
+      "#",
+      "B",
+      "L",
+      "M",
+      "#",
+      "S",
+      "O",
+      "F",
+      "T",
+      "Y"
+    ],
+    [
+      "I",
+      "C",
+      "E",
+      "I",
+      "C",
+      "E",
+      "B",
+      "A",
+      "B",
+      "Y",
+      "#",
+      "N",
+      "ICE",
+      "S",
+      "T"
+    ],
+    [
+      "S",
+      "A",
+      "U",
+      "L",
+      "#",
+      "V",
+      "E",
+      "N",
+      "U",
+      "E",
+      "#",
+      "C",
+      "R",
+      "E",
+      "E"
+    ],
+    [
+      "K",
+      "I",
+      "S",
+      "S",
+      "#",
+      "A",
+      "D",
+      "D",
+      "E",
+      "R",
+      "#",
+      "E",
+      "S",
+      "A",
+      "S"
+    ]
+  ],
+  "kind": ["http://ipuz.org/crossword#1"],
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      "#",
+      5,
+      6,
+      7,
+      8,
+      9,
+      "#",
+      10,
+      11,
+      12,
+      13
+    ],
+    [
+      14,
+      0,
+      0,
+      0,
+      "#",
+      15,
+      0,
+      0,
+      0,
+      0,
+      "#",
+      16,
+      0,
+      0,
+      0
+    ],
+    [
+      17,
+      0,
+      0,
+      0,
+      "#",
+      18,
+      0,
+      0,
+      0,
+      0,
+      19,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      20,
+      0,
+      0,
+      0,
+      21,
+      "#",
+      22,
+      0,
+      0,
+      "#",
+      23,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      24,
+      0,
+      0,
+      "#",
+      25,
+      26,
+      0,
+      0,
+      0,
+      27,
+      0,
+      0,
+      "#",
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      28,
+      29,
+      0,
+      0,
+      "#",
+      30,
+      0,
+      0,
+      0,
+      "#",
+      31,
+      32,
+      33
+    ],
+    [
+      34,
+      35,
+      0,
+      0,
+      0,
+      0,
+      "#",
+      36,
+      0,
+      0,
+      "#",
+      37,
+      0,
+      0,
+      0
+    ],
+    [
+      38,
+      0,
+      0,
+      0,
+      "#",
+      39,
+      40,
+      0,
+      0,
+      0,
+      "#",
+      41,
+      0,
+      0,
+      0
+    ],
+    [
+      42,
+      0,
+      0,
+      0,
+      "#",
+      43,
+      0,
+      0,
+      "#",
+      44,
+      45,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      46,
+      0,
+      0,
+      "#",
+      47,
+      0,
+      0,
+      0,
+      "#",
+      48,
+      0,
+      0,
+      0,
+      "#",
+      "#"
+    ],
+    [
+      "#",
+      "#",
+      "#",
+      49,
+      0,
+      0,
+      0,
+      0,
+      50,
+      0,
+      0,
+      "#",
+      51,
+      52,
+      53
+    ],
+    [
+      54,
+      55,
+      56,
+      0,
+      0,
+      "#",
+      57,
+      0,
+      0,
+      "#",
+      58,
+      59,
+      0,
+      0,
+      0
+    ],
+    [
+      60,
+      0,
+      0,
+      0,
+      0,
+      61,
+      0,
+      0,
+      0,
+      62,
+      "#",
+      63,
+      0,
+      0,
+      0
+    ],
+    [
+      64,
+      0,
+      0,
+      0,
+      "#",
+      65,
+      0,
+      0,
+      0,
+      0,
+      "#",
+      66,
+      0,
+      0,
+      0
+    ],
+    [
+      67,
+      0,
+      0,
+      0,
+      "#",
+      68,
+      0,
+      0,
+      0,
+      0,
+      "#",
+      69,
+      0,
+      0,
+      0
+    ]
+  ],
+  "origin": "CrossFire encoder v1",
+  "block": "#",
+  "title": "Quan's Quandaries 036 ? [Tricky] Too Cool ? 02 Recornered",
+  "version": "http://ipuz.org/v2",
+  "empty": "0",
+  "dimensions": {
+    "width": 15,
+    "height": 15
+  },
+  "clues": {
+    "Down": [
+      [
+        1,
+        "Greek figure at Rockefeller Center"
+      ],
+      [
+        2,
+        "Classic Budweiser ad stars"
+      ],
+      [
+        3,
+        "Delicate, thin noodles used in bún chả"
+      ],
+      [
+        4,
+        "Word before or after wide"
+      ],
+      [
+        5,
+        "Burro"
+      ],
+      [
+        6,
+        "Widget"
+      ],
+      [
+        7,
+        "Dreamlike Disney feature film"
+      ],
+      [
+        8,
+        "\"Natural talent, what can I say?\""
+      ],
+      [
+        9,
+        "With 20-Across, gatekeeper before the gate$link:20A$"
+      ],
+      [
+        10,
+        "Specialized squad"
+      ],
+      [
+        11,
+        "Four-ringed marque"
+      ],
+      [
+        12,
+        "Things tracked on CamelCamelCamel"
+      ],
+      [
+        13,
+        "Boy's badge bearer"
+      ],
+      [
+        19,
+        "Pedant's pickings"
+      ],
+      [
+        21,
+        "Amazon alternative"
+      ],
+      [
+        26,
+        "Indicator of ?science? in pop culture"
+      ],
+      [
+        27,
+        "Now and then"
+      ],
+      [
+        29,
+        "Boxes of biblical proportions?"
+      ],
+      [
+        31,
+        "Ticket masters?"
+      ],
+      [
+        32,
+        "Amazon alternative"
+      ],
+      [
+        33,
+        "Ex-girlfriend, perhaps"
+      ],
+      [
+        34,
+        "Telegram's finale"
+      ],
+      [
+        35,
+        "Toto's tootsies"
+      ],
+      [
+        37,
+        "Van ___"
+      ],
+      [
+        40,
+        "Performed improv comedy, perhaps"
+      ],
+      [
+        45,
+        "Plays in a play"
+      ],
+      [
+        47,
+        "___-André Hamelin, 8x Juno Award winner"
+      ],
+      [
+        49,
+        "Planter purchases"
+      ],
+      [
+        50,
+        "Permeate"
+      ],
+      [
+        52,
+        "Perplexed"
+      ],
+      [
+        53,
+        "ASCII units"
+      ],
+      [
+        54,
+        "Diplomacy alternative?"
+      ],
+      [
+        55,
+        "Vowel-heavy fruit"
+      ],
+      [
+        56,
+        "Olympian who bore the Aegis"
+      ],
+      [
+        59,
+        "The ___-ler (children's book figure)"
+      ],
+      [
+        61,
+        "Green of \"Casino Royale\""
+      ],
+      [
+        62,
+        "\"___ darn tootin'!\""
+      ]
+    ],
+    "Across": [
+      [
+        1,
+        "___futurism (\"Black Panther\" aesthetic)"
+      ],
+      [
+        5,
+        "Stand by for"
+      ],
+      [
+        10,
+        "Fibs, in Gen-Z slang"
+      ],
+      [
+        14,
+        "___ dip (arm workout)"
+      ],
+      [
+        15,
+        "Treats the tarmac, in a way"
+      ],
+      [
+        16,
+        "Vibe, in Gen-Z slang"
+      ],
+      [
+        17,
+        "Dr. Strangelove or: How I Learned to Stop Worrying and ___ the Bomb"
+      ],
+      [
+        18,
+        "Chops finely, rhymingly"
+      ],
+      [
+        20,
+        "See 9-Down"
+      ],
+      [
+        22,
+        "Enero segment"
+      ],
+      [
+        23,
+        "Like the Morrigan, mythologically"
+      ],
+      [
+        24,
+        "Cold War initials"
+      ],
+      [
+        25,
+        "Pull like taffy"
+      ],
+      [
+        28,
+        "Three bears bear"
+      ],
+      [
+        30,
+        "At ___ end"
+      ],
+      [
+        31,
+        "When repeated, laser gun onomatopoeia"
+      ],
+      [
+        34,
+        "Coat applied before the fire"
+      ],
+      [
+        36,
+        "Frequently, poetically"
+      ],
+      [
+        37,
+        "Desert home to snow leopards"
+      ],
+      [
+        38,
+        "It's cheap, it's said"
+      ],
+      [
+        39,
+        "\"Pretty please?\""
+      ],
+      [
+        41,
+        "\"A Series of Unfortunate Events\" count"
+      ],
+      [
+        42,
+        "Duolingo and Tripadvisor icons, for two"
+      ],
+      [
+        43,
+        "Word before job or number"
+      ],
+      [
+        44,
+        "Optical illusion made of repeating patterns"
+      ],
+      [
+        46,
+        "Auto shop check (abbr.)"
+      ],
+      [
+        47,
+        "Like a tom or jack"
+      ],
+      [
+        48,
+        "Amazon ___"
+      ],
+      [
+        49,
+        "Twain, notably"
+      ],
+      [
+        51,
+        "Totes terrif"
+      ],
+      [
+        54,
+        "Cutting edge"
+      ],
+      [
+        57,
+        "Racial justice movement"
+      ],
+      [
+        58,
+        "Sentimental sort"
+      ],
+      [
+        60,
+        "1990s #1 hit... or a feature of the answers to the starred clues"
+      ],
+      [
+        63,
+        "Most congenial"
+      ],
+      [
+        64,
+        "Goodman of legal TV"
+      ],
+      [
+        65,
+        "Madison Square Garden or The Sphere"
+      ],
+      [
+        66,
+        "Poundmaker's tribe"
+      ],
+      [
+        67,
+        "___ Army (certain rock fans)"
+      ],
+      [
+        68,
+        "Snake that sounds like a plus"
+      ],
+      [
+        69,
+        "Those, to José"
+      ]
+    ]
+  }
+}

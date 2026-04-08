@@ -1,0 +1,8 @@
+# NLTK data
+corpora/
+
+# Not permitted to share XWord Info wordlist
+in/xwordinfo.txt
+
+# By extension, don't share the combined wordlist
+out/

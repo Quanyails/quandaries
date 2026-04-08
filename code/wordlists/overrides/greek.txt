@@ -1,0 +1,17 @@
+chi,goodfitb,goodabbrev,goodforeign
+chis,contriveds,niftyforeign
+eta,tired,goodforeign
+etas,tired,niftyforeign
+iota,tired
+iotas,tired
+mus,goodforeign
+nus,goodforeign
+phi,goodforeign
+phis,goodforeign
+pis,niftyabbrev,goodfitb,goodforeign
+psi,goodabbrev,goodforeign
+psis,goodforeign
+rho,goodforeign
+rhos,goodforeign
+tau,goodforeign
+taus,goodforeign

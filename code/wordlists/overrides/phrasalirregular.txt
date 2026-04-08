@@ -1,0 +1,177 @@
+ate at,goodphrasal
+ate awayat,prep
+eat at,goodphrasal
+eat away at,prep
+eaten at,goodphrasal
+eating at,goodphrasal
+eating awayat,prep
+go at,good,goodphrasal
+goes at,goodphrasal
+going at,goodphrasal
+got at,niftyphrasal,goodalmost
+went at,goodphrasal
+go far,goodphrasal
+going far,goodphrasal
+gone far,goodphrasal
+got far,goodphrasal
+get in,goodphrasal
+gets in,goodphrasal
+getting in,goodphrasal
+got in,goodphrasal
+get on,niftyalmost,niftyphrasal
+gets on,niftyphrasal
+got on,niftyphrasal
+getting on,niftyphrasal
+got to,goodphrasal
+go near,niftyphrasal
+goes near,niftyphrasal
+going near,niftyphrasal
+went near,niftyphrasal
+eat up,goodphrasal
+ate up,goodphrasal
+eaten up,goodphrasal
+eating up,goodphrasal
+ate on,prep
+eat on,prep
+eats on,prep
+eating on,prep
+eaten on,prep
+goes aboard,goodphrasal
+go aboard,goodphrasal
+went aboard,goodphrasal
+going aboard,goodphrasal
+go to a restaurant,greenpaint
+goes to a restaurant,greenpaint
+went to a restaurant,greenpaint
+going to a restaurant,greenpaint
+is in on,greenpaint
+was in on,greenpaint
+be in on,greenpaint
+were in on,greenpaint
+are in on,greenpaint
+eat in,niftyphrasal
+eats in,niftyphrasal
+eating in,niftyphrasal
+ate in,niftyphrasal
+eat out,niftyphrasal
+eats out,niftyphrasal
+eating out,niftyphrasal
+ate out,niftyphrasal
+eats at,goodphrasal
+be into,prep
+been into,prep
+being into,prep
+was into,prep
+were into,prep
+go ahead of,prep
+goes ahead of,prep
+gone ahead of,prep
+going ahead of,prep
+went ahead of,prep
+eat into,niftyphrasal
+eats into,niftyphrasal
+ate into,niftyphrasal
+eating into,niftyphrasal
+go into,prep
+goes into,prep
+gone into,prep
+going into,prep
+went into,prep
+went aside,prep
+goes aside,prep
+going aside,prep
+gone aside,prep
+go aside,prep
+go in for,prep
+going in for,prep
+gone in for,prep
+goes in for,prep
+went in for,prep
+go ino n,goodphrasal
+goes in on,goodphrasal
+going in on,goodphrasal
+went in on,goodphrasal
+go on tiptoe,greenpaint
+goes on tiptoe,greenpaint
+went on tiptoe,greenpaint
+going on tiptoe,greenpaint
+ate raw,greenpaint
+eat raw,greenpaint
+eating raw,greenpaint
+eats raw,greenpaint
+go to,goodalmost,niftyphrasal
+goes to,niftyphrasal
+went to,niftyphrasal
+going to,niftyphrasal
+eat of,archaic
+eats of,archaic
+ate of,archaic
+eating of,archaic
+go up to,prep
+goes up to,prep
+went up to,prep
+going up to,prep
+go bananas,asset
+gone bananas,asset
+going bananas,asset
+went bananas,asset
+go as,niftyphrasal
+goes as,niftyphrasal
+going as,niftyphrasal
+went as,niftyphrasal
+eats upper,greenpaint
+eating supper,greenpaint
+eats supper,greenpaint
+ate supper,greenpaint
+be onto,prep
+being onto,prep
+is onto,prep
+was onto,prep
+were onto,prep
+be a no go,greenpaint
+is a no go,greenpaint
+was a no go,greenpaint
+were a no go,greenpaint
+be rid of,greenpaint
+is rid of,greenpaint
+was rid of,greenpaint
+were rid of,greenpaint
+do to a t,niftyphrasal
+did to a t,niftyphrasal
+done to a t,niftyphrasal
+does to a t,niftyphrasal
+doing to a t,niftyphrasal
+go after,niftyphrasal
+goes after,niftyphrasal
+going after,niftyphrasal
+gone after,niftyphrasal
+went after,niftyphrasal
+go to nowhere,greenpaint
+goes to nowhere,greenpaint
+going to nowhere,greenpaint
+went to nowhere,greenpaint
+go out on a date,greenpaint
+goes out on a date,greenpaint
+going out on a date,greenpaint
+went out on a date,greenpaint
+eat a lot,greenpaint
+eats a lot,greenpaint
+eating a lot,greenpaint
+ate a lot,greenpaint
+eat a little,greenpaint
+eats a little,greenpaint
+eating a little,greenpaint
+ate a little,greenpaint
+eat a meal,greenpaint
+eats a meal,greenpaint
+ate a meal,greenpaint
+eating a meal,greenpaint
+eat well,greenpaint
+eats well,greenpaint
+eating well,greenpaint
+ate well,greenpaint
+go weak,niftyphrasal
+goes weak,niftyphrasal
+gone weak,niftyphrasal
+going weak,niftyphrasal
+went weak,niftyphrasal

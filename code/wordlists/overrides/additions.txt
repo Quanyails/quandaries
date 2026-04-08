@@ -1,0 +1,573 @@
+accu,eh
+Accuweather,niftyname
+Backstroke of the West,indie
+bremsstrahlung,vocab
+Carvana,niftyname
+Codex Seraphinianus,niftyname
+cross fox,fine
+Dr. K,indie
+Edomex,nifty
+Einhander,indie
+ereyesterday,nifty
+overmorrow,nifty
+Gateway to the West,niftyname
+Google-fu,good
+Hardt,niftyname
+Isaly,niftyname
+Isaly's,niftyname
+It's So Bad,indie
+Licancabur,name
+malt loaf,fine
+tea loaf,fine
+Mandelbulb,nifty
+Mandelbulbs,nifty
+Nazgûl,goodname
+Nolan North,niftyname
+octarine,nifty
+onosecond,indie
+onoseconds,indie
+Ramune,niftyname
+Satyrion,finename
+south-pointing chariot,nifty
+Village East,niftyname
+ELI5,good
+Explain Like I'm Five,asset
+A.I. Psychosis,downer
+in the language,good
+Zerg,finename
+OneRepublic,niftyname
+crunchatize,fine
+Ip Man,niftyname
+reference marker,good
+reference markers,good
+Cheesecake Factory,niftyname
+Girls Just Want to Have Fun,asset
+Leee,name
+Porkbusters,nifty
+Junk of Pork,finename
+so true bestie,asset
+guillemet,nifty
+guillemets,nifty
+Prisencolinensinainciusol,niftyname
+Celentano,niftyname
+Flemish Giant,nifty
+Ceci n'est pas une pipe,nifty
+biclops,nifty
+Ejae,goodname
+How to Win Friends and Influence People,asset
+culture shift,good
+steely-eyed missile man,good
+Thumbelina,niftyname
+lordosis,vocab
+LockPickingLawyer,indie
+darknet,nifty
+Severin,niftyname
+Joy-Con,good
+Joy-Cons,good
+Huy,niftyfitb,niftyname
+glub,good
+glubs,good
+glubbing,good
+glubbed,good
+glubglub,nifty
+glubglubglub,seq
+cat distribution system,asset
+hot singles in your area,nifty
+The Mouse,goodname
+take one leave one,good
+Federal Power Act,fine
+Little Free Library,asset
+Little Free Libraries,asset
+Chesterton's Fence,nifty
+Sheep in the Big City,finename
+soundproof booth,nifty
+tone system,nifty
+ceremonial pole,nifty
+ceremonial poles,nifty
+cultural zeitgeist,nifty
+sauce for the goose,nifty
+what's sauce for the goose is sauce for the gander,nifty
+you'll go down in history,nifty
+Caramelldansen,nifty
+Aegospotami,name
+Morrigan,nifty
+German humor,nifty
+on the sauce,downer
+Jimbo,niftyname
+same thing,good
+cow cat,nifty
+Dead Internet Theory,nifty
+crude humor,nifty
+crude humour,fineforeign
+Gävle,niftyname
+Gävle Goat,nifty
+crude iron,nifty
+fade to white,nifty
+Jira,niftyname
+lie by omission,nifty
+lying by omission,fine
+lied by omission,fine
+triple point,nifty
+Darrell Waltrip,finename
+Michael Waltrip,finename
+Eastern Orthodoxy,nifty
+Robert Ripley,niftyname
+wunderpus,nifty
+maneki-neko,nifty
+Pheme,finename
+spaghetti ice cream,good
+Spaghettieis,good
+I'll eat my hat,good
+axial tilt,vocab
+Philosoraptor,nifty
+u wot,indie
+Punnett,niftyname
+Reginald Punnett,niftyname
+prompt engineering,nifty
+prompt engineer,nifty
+prompt engineers,nifty
+prompt engineered,nifty
+Gravitron,nifty
+Gravitrons,nifty
+Ring of Power,nifty
+Rings of Power,nifty
+knows for certain,fine
+knew for certain,fine
+Paris Las Vegas,niftyname
+Paris Syndrome,asset
+crisis of faith,asset
+cat grass,good
+FAANG,goodabbrev
+Eras Tour,goodname
+the Eras Tour,goodname
+company time,good
+on company time,good
+the enemy of my enemy is my friend,nifty
+the enemy of my enemy,finename,nifty
+horn and ivory,vocab
+gate of horn and ivory,nifty
+Duck Amuck,niftyname
+Patrick Duffy,niftyname
+Mick Dundee,niftyname
+pianississimo,nifty
+fortississimo,nifty
+chili head,nifty
+chili heads,nifty
+tsundere,nifty
+tsunderes,nifty
+one-upmanship,nifty
+one-upmanships,fineplural
+cheevo,nifty
+cheevos,nifty
+chaos engineering,good
+chaos engineered,good
+chaos engineer,good
+chaos engineers,good
+ready Freddy,asset
+I don't know what I expected,asset
+Brundlefly,niftyname
+parking chair,good
+ahoy me hearties,nifty
+yuck one's yum,hmm
+yucks one's yum,hmm
+yucking one's yum,hmm
+yucked one's yum,hmm
+don't yuck my yum,hmm
+Japanese game show,asset
+actions have consequences,good
+problem areas,good
+googology,good
+order order,good
+cat wand,good
+cat wands,good
+well-oiled machine,good
+vaguepost,good
+vagueposting,good
+vagueposted,good
+vagueposts,good
+anchor tenant,nifty
+anchor tenants,nifty
+BBEG,indie
+GLHF,indie
+WASD,indie
+brain zap,good
+brain zaps,good
+door hinge,nifty
+door hinges,greenpaint
+curb stomp,downer
+curb stomping,downer
+curb stomped,downer
+curb stomps,downer
+pubstomp,nifty
+pubstomps,nifty
+pubstomping,nifty
+pubstomped,nifty
+Nezha,niftyname
+Nezha 2,niftyname
+dead presidents,nifty
+GBE,vocab
+Eric the Eel,finename
+my life is a lie,asset
+hex code,nifty
+hex codes,nifty
+kidney belt,nifty
+kidney belts,nifty
+autopsy report,downer
+autopsy reports,downer
+Elsbeth,niftyname
+Truffle Shuffle,nifty
+the house,nifty
+takes one to know one,good
+I rest my case,asset
+Metroidvania,good
+Metroidvanias,nifty
+soulslike,nifty
+soulslikes,nifty
+Soulsborne,nifty
+Soulsbornes,nifty
+"Eats, Shoots & Leaves",niftyname
+"Eats, Shoots and Leaves",niftyname
+good smell,greenpaint
+good smells,greenpaint
+bad smell,greenpaint
+bad smells,greenpaint
+is it for me,good
+bird strike,downer
+new phone who dis,good
+cheese wire,good
+pronoun pin,good
+pronoun pins,good
+owlbear,good
+owlbears,good
+Kloss,niftyname
+Langton's Ant,tech
+real subtle,asset
+real smooth,asset
+from coast to coast,good
+Stoll,niftyname
+Clifford Stoll,niftyname
+lava flows,good
+Yo soy Betty,niftyname
+lava fountain,good
+lava fountains,good
+nanny van,fine
+nanny vans,fine
+original character,good
+original characters,good
+Definitive Edition,nifty
+Definitive Editions,nifty
+the Definitive Edition,nifty
+I'm chilling,nifty
+bunny slipper,asset
+bunny slippers,asset
+peach ring,asset
+peach rings,asset
+pâte de fruit,good
+Who's That Pokémon,good
+jagoff,nifty
+jagoffs,nifty
+PLU,fineabbrev
+friendo,asset
+dinosaur game,asset
+Chrome Dino,good
+mind flayer,nifty
+mind flayers,nifty
+El Santo,goodname
+and I'm the Queen of Sheba,asset
+interquels,asset
+interquel,asset
+legacy sequel,asset
+legacy sequels,asset
+and nothing of value was lost,nifty
+umu,vocab
+imu,vocab
+Ériu,name
+I'll be good,good
+Terra Australis,nifty
+photobash,asset
+photobashes,asset
+photobashed,asset
+photobashing,asset
+make a mountain out of a molehill,asset
+Ostern,fine
+slanguage,good
+manosphere,good
+multiball,asset
+couch co-op,asset
+friendslop,asset
+do re mi fa so la ti do,nifty
+resume operations,good
+resumes operations,good
+resuming operations,good
+resumed operations,good
+resume control,nifty
+resumes control,nifty
+resumed control,nifty
+resuming control,nifty
+resume play,nifty
+resume talks,nifty
+resumes talks,nifty
+resumed talks,nifty
+resuming talks,nifty
+tech debt,good
+technical debt,good
+select all,good
+sea bunny,asset
+sea bunnies,asset
+Microsoft Edge,good
+by some miracle,good
+you're asking for it,asset
+you asked for it,asset
+cot-caught merger,good
+if these walls could talk,asset
+Akinator,asset
+fordite,good
+ooh ooh aah aah,nifty
+ah crap,niftyalmost
+aw crap,niftyalmost
+oh crap,niftyalmost
+ah dang,niftyalmost
+aw dang,niftyalmost
+oh dang,niftyalmost
+carrot dog,asset
+carrot dogs,asset
+save scum,good
+save scums,good
+save scummed,good
+save scumming,good
+quicksave,good
+quicksaves,good
+record scratch,asset
+stable job,nifty
+stable jobs,nifty
+fire in one's belly,asset
+fire in your belly,good
+fire in the belly,asset
+spaghetti tree,nifty
+you activated my trap card,nifty
+you just activated my trap card,nifty
+you've activated my trap card,nifty
+roll for initiative,asset
+Heated Rivalry,goodname
+footgun,nifty
+Easy Button,good
+good find,good
+necessary evil,good
+Naoero,goodname
+Mandate of Heaven,good
+Tumblr sexyman,good
+Tumblr sexymen,good
+Tumblr sexywoman,good
+Tumblr sexywomen,good
+the Algorithm,good
+gaslight gatekeep girlboss,hmm
+childlore,good
+GeoCities,niftyname
+Neocities,niftyname
+PNGtuber,good
+PNGtubers,good
+thinking face emoji,asset
+now kith,nifty
+apology video,asset
+apology videos,asset
+spin up,goodphrasal
+spins up,goodphrasal
+spinning up,goodphrasal
+spun up,goodphrasal
+fiber art,good
+fiber arts,good
+fiber artist,good
+fiber artists,good
+fibre art,fineforeign
+fibre arts,fineforeign
+fibre artist,fineforeign
+fibre artists,fineforeign
+craftivism,asset
+Michael Stevens,niftyname
+got your nose,asset
+I've got your nose,good
+rubber hose,good
+rubber hose animation,good
+Flash animation,good
+all the news that's fit to print,good
+the old one-two,good
+catten,nifty
+cattens,nifty
+short king,asset
+short kings,asset
+pookie bear,asset
+pookie bears,asset
+sweat drop,good
+sweat drops,good
+"liberté, égalité, fraternité",niftyforeign
+Colorless green ideas sleep furiously,good
+cozy game,asset
+cozy games,asset
+cosy game,fineforeign
+cosy games,fineforeign
+base case,good
+base cases,good
+Stardew Valley,goodname
+tastes like chicken,asset
+AFC team,good
+AFC teams,good
+NFC team,good
+NFC teams,good
+hadoken,good
+Hadouken,good
+Ari Aster,niftyname
+hut hut hut,sound
+by the power of Grayskull,asset
+for the honor of Grayskull,asset
+top of mind,good
+they grow up so fast,asset
+ikigai,good
+pack on the pounds,good
+pile on the pounds,fineforeign
+Invisalign,niftyname
+make one's blood boil,good
+on a scale from one to ten,good
+that figures,good
+Boston Dynamics,goodname
+offside trap,good
+offside traps,fineplural
+park the bus,good
+parks the bus,good
+parked the bus,good
+parking the bus,good
+that won't fly,good
+libero,good
+liberos,good
+gegagedigedagedago,indie
+mistaken identity,good
+duck test,asset
+duck tests,asset
+duck typing,asset
+background noise,good
+background noises,fineplural
+I'll be frank,asset
+Harry Kane,niftyname
+Neymar,niftyname
+stay frosty,asset
+stays frosty,good
+stayed frosty,good
+staying frosty,good
+drop dimes,asset
+drops dimes,asset
+dropped dimes,asset
+dropping dimes,asset
+wooden nickel,nifty
+wooden nickels,nifty
+don't take any wooden nickels,nifty
+womp,nifty
+Tartan Army,nifty
+Will It Blend,dated
+matar paneer,good
+kadai paneer,good
+khoya paneer,nifty
+palak paneer,good
+shahi paneer,good
+surti paneer,nifty
+on par,good
+Blue Star Memorial Highway,nifty
+Blue Star Memorial Highways,nifty
+dual wield,good
+dual wields,good
+dual wielded,good
+dual wielding,good
+spit cake,good
+spit cakes,good
+chimney cake,good
+chimney cakes,good
+CJK,fineabbrev
+that would be great,good
+Steam Machine,goodname
+wishlist now,nifty
+snakernet,good
+sneakernets,nifty
+don't @ me,good
+three-pipe problem,nifty
+surrender cobra,nifty
+loading icon,good
+loading icons,good
+any%,indie
+Two World Wars and One World Cup,niftyname
+Akihabara,niftyname
+99% Invisible,niftyname
+The Amazing Digital Circus,goodname
+a thread,goodalmost
+Dream Luck,indie
+yass,good
+Has science gone too far?,good
+Newegg,niftyname
+Horseshoe Bend,goodname
+LieMAX,good
+Ita-bag,nifty
+Ita-bags,nifty
+eyas,retired
+eyases,retired
+eyasses,retired
+bitcrush,good
+bitcrushes,good
+bitcrushed,good
+bitcrushing,good
+New Year's glasses,good
+Ueno,niftyname
+Ueno Park,niftyname
+ara ara,indie
+r/place,nifty
+white asparagus,good
+4Kids,goodname
+4Kids Entertainment,goodname
+Toei,niftyname
+Toei Animation,niftyname
+moon shoes,nifty
+be not afraid,good
+vacuous truth,good
+kiai,untested
+kha,untested
+Wasian,good
+Steel City,good
+phoneword,good
+phonewords,good
+Paul Pry,niftyname
+BLUF,niftyabbrev
+R2-D2,goodname
+C-3PO,goodname
+BB-8,goodname
+Pittsburghese,asset
+3 Musketeers,goodname
+1:1,good
+What year is it?,asset
+Do not pass Go,asset
+slow blink,good
+slow blinks,good
+slow blinked,good
+slow blinking,good
+yesn't,good
+GenAI,good
+instructions unclear,asset
+technically speaking,asset
+exonumia,nifty
+two-for-one special,good
+microservice,good
+microservices,good
+Nord and Bert,niftyname
+Nord and Bert Couldn't Make Head or Tail of It,niftyname
+XY problem,good
+XY problems,good
+five tomatoes,nifty
+Tung Tung Tung Sahur,good
+Italian brainrot,good
+divorced dad rock,good
+Delay Lama,niftyname
+CYOA,fineabbrev
+correct horse battery staple,nifty
+aiya,nifty
+V8,goodname
+V8s,goodname
+battleboarding,good
+rice vermicilli,good
+Fortnitification,good
+I ❤ NY,good
+PewDiePie,goodname

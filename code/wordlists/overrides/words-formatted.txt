@@ -1,0 +1,1248 @@
+wennish,dated,downer
+orthopteran,fine
+Will Arnett,niftyname
+The Golden Gate,greenpaint
+Dutt,awkward
+Iann,niftyname
+PNGs,niftyabbrev
+Fionn,niftyname
+Tripp,finename
+Vitamix,finename
+wiglet,fine
+coeur,foreign,name
+matweed,fine
+Anitta,niftyname
+Okri,niftyname
+akan,fine
+Akio,finename
+voile,nifty
+voiles,nifty
+Hofstra,finename
+InBev,finename
+scurfy,fine
+Pepsi XL,finename
+agraphia,nifty
+mokatine,nifty
+mokatines,nifty
+plantar,fine
+is done,almost
+open eye,greenpaint
+Sandor,niftyname
+Gooden,niftyname
+Menken,niftyname
+Jensen,niftyname
+Tessie,niftyname
+imprimis,fineforeign
+moujik,fine,var
+exstar,greenpaint
+volvox,fine
+Vonage,finename
+volant,nifty
+Soave,finename
+q wave,nifty
+volute,nifty
+in crisis,niftyalmost
+Safire,finename
+Jaffa,niftyname
+east LA,niftyalmost
+west LA,niftyalmost
+Vieira,niftyname
+Laa-Laa,handyname
+Casals,finename
+Turturro,finename
+toreador,nifty
+taconite,nifty
+korna,nifty
+is sure to,almost
+Nostromo,finename
+castrato,nifty
+populi,niftyfitb
+arrowroot,nifty
+EndWar,finename
+nauseant,inferable
+nauseants,inferable
+diatomite,nifty
+digram,nifty
+dementia,downer
+dementias,downer
+Bermudan,nifty
+Bermudans,nifty
+Bermudian,nifty
+Bermudians,nifty
+Demetrius,niftyname
+pervasion,nifty
+seriation,nifty
+Aragonese,nifty
+derma,affix,nifty
+dermas,vocab
+oh poo,niftyalmost
+M Ward,niftyname
+Feore,niftyname
+Jeane,finename
+Peake,niftyname
+Deare,fitb,niftyname
+Saadi,niftyname
+Sudhir,niftyname
+Bligh,finename
+menos,niftyforeign
+Lukas,finename
+Viennese,nifty
+Leo Cherne,finename
+Rififi,finename
+Stritch,finename
+Tofutti,finename
+Orontes,name
+Tampico,finename
+sambuca,nifty
+Koons,niftyname
+Laveau,niftyname
+contusion,downer
+troublous,fine
+croupiers,nifty
+croupier,nifty
+Norwich,finename
+Postum,niftyname
+Gingold,finename
+Mangold,niftyname
+Toulouse-Lautrec,niftyname
+Celanese,name
+Will Geer,niftyname
+bateau,nifty
+O'Connell,niftyname
+Nadines,contriveds
+Daphnis,finename
+daphnia,fine
+hematoma,medical
+spirant,nifty
+scoleco,affix
+sidereal,nifty
+oompahs,fineplural
+livered,niftyfitb
+lorient,foreign,name
+Munson,finename
+ladrone,nifty
+Gounod,niftyname
+robinia,fine
+in a blaze,almost
+no class,greenpaint
+floatage,var
+mad at,almost
+cabala,var
+agitato,niftyforeign
+no-tell,niftyfitb
+Ibizan,nifty
+Lloyd Austin,niftyname
+Anspach,finename
+keens,nifty
+hummock,nifty
+manroot,nifty
+Novato,name
+Boo'd Up,niftyname
+rondure,nifty
+mangey,var
+O Romeo,niftyalmost
+Ivanek,niftyname
+Sun Yat,longpartial
+in a snap,niftyalmost
+afters,niftyforeign
+Stiers,niftyname
+Gustaf,niftyname
+Diannes,contriveds
+paisan,nifty
+due in,niftyalmost
+Idomeneo,finename
+tourist industry,var
+sanicle,fine
+Sneetch,goodname
+henbane,nifty
+or not to,longpartial
+Diet RC,dated
+omnific,nifty
+Gummo,niftyname
+abutilon,nifty
+end now,niftyalmost
+zoftig,var
+choate,finename,nifty
+apojove,nifty
+apojoves,nifty
+inositol,tech
+in one act,greenpaint
+Time Trax,finename
+Almagest,finename
+Paiute,nifty
+Barrie,niftyname
+DePauw,finename
+Devane,finename
+oo la la,var
+cinque,nifty
+cinques,nifty
+drupelet,nifty
+It's Pat,finename
+neruone,foreign
+neurones,foreign
+laminto,bad
+Corinna,finename
+Conrail,finename
+Donegal,name
+I admit,niftyalmost
+Conrads,contriveds
+on time,goodalmost
+oarage,fine
+Vigny,niftyname
+on a hop,greenpaint
+Oxnard,finename
+Bat Day,nifty
+lazaretto,nifty
+lazarettos,nifty
+Boderek,finename
+Anglian,finename
+Medea,goodname
+tech IPO,greenpaint
+tech IPOs,greenpaint
+yachtie,var
+obeisant,nifty
+Romeros,contriveds
+machina,niftyfitb
+Suvari,finename
+Boddy,finename
+Reddy,niftyname
+Durbin,finename
+azeri,nifty
+Tarkenton,niftyname
+peats,fineplural
+Mary Astor,niftyname
+irruption,nifty
+Demerol,nifty
+eudaemon,nifty
+Molinaro,niftyname
+Molinari,niftyname
+Gwenn,niftyname
+Carice,niftyname
+Hochul,niftyname
+gray-A,nifty
+Shraya,niftyname
+Leray,niftyname
+Caray,niftyname
+DeRay,niftyname
+elote,nifty
+Henner,finename
+Van Pelt,niftyname
+mulcted,fine
+Tolstoy,goodname
+silk tie,greenpaint
+Lanka,goodfitb
+Amira,niftyname
+Anika,finename
+sarcasms,fineplural
+Bouvier,finename,nifty
+Paulist,nifty
+cisalpine,nifty
+San Simeon,finename
+atavistic,nifty
+inanition,medical
+upanishad,nifty
+upanishads,nifty
+emollient,nifty
+emollients,nifty
+Dilma,niftyname
+eurythmy,nifty
+skirl,nifty
+Ayler,niftyname
+prevision,nifty
+cotyledon,nifty
+Rod McKuen,niftyname
+anarchies,fineplural
+urticaria,medical
+Poor Clare,nifty
+eparchy,fine
+eparchies,fine
+lobscouse,fine
+Delacorte,niftyname
+Aconcagua,nifty
+mitre,niftyforeign
+talcs,fineplural
+silts,fineplural
+Linus,goodname
+Lucan,niftyname
+Ana Ng,niftyname
+Trucial,nifty
+Daumier,niftyname
+Plumier,finename
+Greil,niftyname
+pluvial,nifty
+fluvial,nifty
+ad initium,niftyforeign
+inveigler,nifty
+Oriflamme,nifty
+neoplasia,medical
+Roone,niftyname
+rotenone,fine
+erigeron,fine
+alabaman,nifty
+noumenon,nifty
+arkansan,nifty
+Amen Amen,niftyname
+Kildare,finename
+niodeon,bad
+voodoos,fineplural
+caisson,nifty
+bugbane,nifty
+Bahrein,var
+soubise,nifty
+Dorseys,fineplural
+argento,affix,finename
+Alfonse,finename
+a pair of,almost
+Mata Utu,finename
+kinpira,nifty
+Lomans,fineplural
+Adlerian,nifty
+aglisten,nifty
+Ikettes,niftyname
+Malian,nifty
+Candide,niftyname
+Sanford,finename
+McNeill,niftyname
+Raelian,nifty
+cardoon,nifty
+cardoons,nifty
+jemmied,nifty
+jemmies,nifty
+jemmy,finename,nifty
+jemmying,nifty
+Gifford,niftyname
+gipsy,var
+gipsies,var
+rupiah,nifty
+Cheops,niftyname
+Hamlin,niftyname
+Mahmoud,niftyname
+begorra,nifty
+Grotius,niftyname
+Akkadian,nifty
+alluvion,nifty
+albertan,nifty
+agnation,nifty
+gun bore,nifty
+thurifer,nifty
+cembalo,nifty
+Gromyko,niftyname
+passado,nifty
+Zone One,niftyname
+ameboid,nifty
+debut LP,greenpaint
+debut LPs,greenpaint
+Gin Lane,niftyname
+candida,nifty
+Sassoon,niftyname
+elf hat,greenpaint
+elf hats,greenpaint
+The Root,niftyname
+noisome,nifty
+Erasmian,nifty
+Florek,finename
+Rheims,niftyname
+TIAA-CREF,dated
+chaldron,nifty
+Olajuwon,niftyname
+ReaLemon,niftyname
+Torrance,finename
+tantara,nifty
+tantaras,nifty
+affaire,fineforeign
+Old Lace,finename
+Taisho,niftyname
+Carmela,niftyname
+Kampala,goodname
+Bausch,finename
+catty,good,nifty
+cattie,var
+catties,nifty
+corrida,niftyforeign
+folky,nifty
+lasagne,niftyforeign
+hansom,nifty
+hansoms,nifty
+Shalane,niftyname
+donburi,nifty
+gangues,nifty
+contuse,downer
+Eva Peron,niftyname
+bergere,nifty
+Portias,contriveds
+scansion,nifty
+scansions,nifty
+hot lava,greenpaint
+Hermann,niftyname
+benzoic,nifty
+bridoon,nifty
+bridoons,nifty
+The Menu,niftyname
+Pal Joey,niftyname
+Bad Moon,finename
+Taft era,nifty
+Uta Hagen,niftyname
+The Mole,dated,niftyname
+bagnio,nifty
+bagnios,nifty
+raffish,nifty
+a man down,niftyalmost
+Rashida,niftyname
+Houston,goodname
+imagism,nifty
+Sean Bean,goodname
+Curtiss,niftyname
+Yorkist,nifty
+Yorkists,nifty
+tanbark,nifty
+Chaotian,nifty
+Saarinen,niftyname
+lunation,nifty
+Imodium,finename
+bien sur,niftyforeign
+Tinactin,finename
+I'm alone,eh
+monition,nifty
+conation,nifty
+riflery,nifty
+Jo Frost,niftyname
+brise,nifty
+brises,nifty
+Brasso,finename
+ici et la,fineforeign
+Montagu,finename
+Jon Seda,niftyname
+Kathryn,niftyname
+Van Sant,niftyname
+Banbury,finename
+left arm,nifty
+Sanborn,niftyname
+pro tem,nifty,goodforeign
+tetrarch,nifty
+Rae Dawn,niftyname
+tammy,niftyname
+tammies,fineplural
+mandan,finename,nifty
+gerbera,nifty
+the Hutu,greenpaint
+Samarra,fitb,niftyname
+Raisman,niftyname
+crinoid,nifty
+Torrence,finename
+Candace,niftyname
+Khalifa,goodfitb
+Ferrara,finename
+verbena,nifty
+mazel,goodfitb
+capon,nifty
+capons,nifty
+Wharton,niftyname
+Tom Conti,niftyname
+Slayton,niftyname
+Charolais,nifty
+chelonian,nifty
+Mnuchin,niftyname
+Flo-Jo,niftyname
+in a shot,greenpaint
+Riesling,nifty
+atavism,nifty
+Isidora,niftyname
+The War,niftyname
+Chiang,fitb,niftyname
+tearose,nifty
+Ruby Dee,niftyname
+Mr. Boddy,niftyname
+Erewhon,niftyname
+Gresham,niftyname
+chiliad,fine
+Dahomey,niftyname
+Schirra,niftyname
+scherzo,nifty
+scherzi,nifty
+clootie,foreign
+cloture,nifty
+Yvette,niftyname
+evince,nifty
+evinces,nifty
+evinced,nifty
+evincing,nifty
+calumny,nifty
+trypsin,tech
+tussore,nifty
+tee shot,nifty
+Arabist,nifty
+Grammer,niftyname
+inoculum,fine
+inocula,fine
+Mahomet,niftyname
+Rossano,niftyname
+on a tip,niftyalmost
+nooning,fine
+Batiste,goodname
+pastern,nifty
+Last Don,niftyname
+Daschle,finename
+So Human,niftyname
+mestizo,fineforeign
+mestiza,fineforeign
+Schwinn,niftyname
+Achieva,dated,niftyname
+Igopogo,nifty
+Massine,finename
+atavist,nifty
+asimmer,nifty
+ecocide,nifty
+Amherst,goodname
+cassia,nifty
+cassias,nifty
+Castors,contriveds
+Woolite,niftyname
+poolman,inferable,niftyname
+Schwann,niftyname
+Kurilian Bobtail,nifty
+Hansard,niftyname
+Nemerov,niftyname
+Eugenia,nifty,niftyname
+Eugenie,niftyname
+caduceus,nifty
+caducei,fine
+Ruperts,fineplural
+pupusa,nifty
+Henreid,niftyname
+laniard,var
+laniards,var
+Riordan,niftyname
+Sununu,niftyname
+Fonteyn,finename
+Smoove,niftyname
+Vanuatu,goodname
+Brienne,niftyname
+on land,niftyalmost
+Fat Tony,niftyname
+septet,nifty
+septets,nifty
+paren,niftyabbrev
+parens,niftyabbrev
+tin roof,longpartial
+vestee,nifty
+hot oil,niftyalmost
+Castrol,niftyname
+Picardy,niftyname
+neon red,greenpaint
+neon blue,greenpaint
+Unocal,dated
+saltant,nifty
+Lorenz,niftyname
+stow it,goodalmost
+Luden's,niftyname
+Goodson,finename
+Thomson,finename
+Sergeant O'Rourke,finename
+no runs,greenpaint
+Sciorra,niftyname
+mostest,fitb
+Hartack,finename
+Play Me,niftyname
+Dirksen,niftyname
+labiate,nifty
+Tiremen,dated
+Monroes,fineplural
+Kon-Tiki,niftyname
+pyrope,nifty
+Notting,niftyname
+towhee,nifty
+towhees,nifty
+Soriano,niftyname
+sorbate,niftyfitb
+the rap,longpartial
+notitia,fine
+notitiae,fine
+sadies,contriveds,nifty,niftyname
+dies non,tech
+Vanern,finename
+sorb,nifty
+sorbs,nifty
+sorbed,nifty
+sorbing,nifty
+Krasner,finename
+Traynor,finename
+Syriac,nifty
+rushee,nifty
+rushees,nifty
+marron,nifty
+Red Tab,finename
+Leshan,niftyname
+heptane,niftyname
+Rashad,niftyname
+Edwina,niftyname
+Fontana,finename
+phenyl,nifty
+on report,niftyalmost
+orchil,nifty
+Mecham,finename
+sacrum,nifty
+ash pan,greenpaint
+shrift,niftyfitb
+Bergen,niftyname
+no cheese,niftyalmost
+Fontane,finename
+Geisel,goodname
+neoprene,nifty
+nescient,nifty
+xenons,fineplural
+danewort,fine
+Altamont,niftyname
+cenacle,fine
+barostat,nifty
+Gwynne,niftyname
+Greinke,niftyname
+Vicente,niftyname
+mantic,nifty
+havocs,fineplural
+in a trot,almost
+subito,fineforeign
+name of,niftyalmost
+Manjula,niftyname
+Sadaharu Oh,niftyname
+The Titan,niftyname
+Neruda,niftyname
+Celica,niftyname
+Cronin,niftyname
+rogation,nifty
+rigadoon,nifty
+histidine,tech
+dyeings,fineplural
+tar paper,nifty
+Wambach,niftyname
+Heaton,niftyname
+no-trade,niftyalmost
+Harptones,niftyname
+The Harptones,niftyname
+slops,fineplural
+poetica,niftyfitb
+Alan Bean,niftyname
+redout,nifty
+palinode,fine
+palinodes,fine
+Inverness,goodname
+smize,nifty
+Le Freak,niftyname
+retinitis,medical
+aleutian,nifty
+Samanthas,contriveds
+testatrix,nifty
+A Bend in the River,niftyname
+Donalbain,niftyname
+Aquarian,nifty
+One from the Heart,niftyname
+Teri Garr,niftyname
+Achimenes,nifty
+Rennie,niftyname
+paisano,nifty,fineforeign
+Blanda,niftyname
+dexedrine,nifty
+nullipara,fine
+Glinka,niftyname
+cantino,nifty
+Glinda,goodname
+hapax,niftyfitb
+a case,partial
+tenacities,fineplural
+elk meat,greenpaint
+Sisley,finename
+wanna go,niftyalmost
+Endor,handyname
+L-DOPA,finename
+Lamar,goodname
+Alain,niftyname
+arista,dated,vocab
+aristae,vocab
+fetor,nifty
+Deana,niftyname
+Nigella,niftyname
+retsina,fine
+retsinas,fine
+Orestes,retired
+Red Sun,niftyname
+ratite,nifty
+Christa,finename
+Reichl,finename
+Ripken,finename
+Chopra,niftyname
+casita,niftyname,niftyforeign
+Bateman,niftyname
+Rave On,niftyname
+Mooney,finename
+Hamels,finename
+Heiden,niftyname
+Moreno,goodname
+moreen,nifty
+Ira Kaplan,niftyname
+Ewing,niftyname
+isostatic,nifty
+Zulema,niftyname
+thrilla,niftyfitb
+Trocadero,finename
+isocratic,fine
+Imran Khan,niftyname
+Kahlil,niftyname
+ablution,nifty
+Jaleel,niftyname
+on a par,goodalmost
+Purell,goodname
+neuralgia,medical
+drayage,fine
+Aileens,contriveds
+telescopy,nifty
+do not go,eh
+Brecht,niftyname
+tarana,nifty
+McGarrett,niftyname
+acumens,fineplural
+tampion,fine
+Liu Wen,niftyname
+Acuvue,finename
+Lavers,contriveds
+I'm Real,niftyname
+Fujita,dated
+Fujita scale,dated
+Janets,contriveds
+Goulet,niftyname
+Kuala,niftyfitb
+Lumpur,niftyfitb
+Vanark,niftyname
+valuta,fine
+Rapace,niftyname
+Trevor,goodname
+The Car,niftyname
+ablation,nifty
+Leo Gorcey,niftyname
+not ok,greenpaint
+no tar,almost
+not do,greenpaint
+Carlito,niftyname
+Edith Ann,niftyname
+truancies,fineplural
+Asuncion,niftyname
+rumaki,nifty
+Rio Muni,niftyname
+Danang,niftyname
+mid-cap,nifty
+Putnam,goodname
+Soudan,foreign,var
+Trent Lott,niftyname
+Rob Morrow,niftyname
+Rudner,niftyname
+moiety,nifty
+splenitis,medical
+Ilhan Omar,niftyname
+Bonham,niftyname
+Hayden,niftyname
+Zairean,dated
+Dewar's,niftyname
+red bat,nifty
+red bats,nifty
+amaretto,nifty
+amarettos,nifty
+Poorman,niftyname
+Rosemarie,niftyname
+Depardieu,niftyname
+impieties,nifty
+I Got a Name,niftyname
+bushwa,nifty
+bushwah,nifty
+pay now,niftyalmost
+no evil,niftyalmost
+Capeman,niftyname
+midinette,nifty
+midinettes,nifty
+amount due,niftyalmost
+retortion,fine
+man-cub,niftyname
+Corey Haim,niftyname
+buccal,nifty
+Claudette,niftyname
+Hanoian,nifty
+Dunham,niftyname
+Eat a Peach,niftyname
+Apollonia,niftyname
+Neumann,niftyname
+Stacey,niftyname
+heckin',nifty
+in terms of,niftyalmost
+broadloom,nifty
+antigenic,tech
+Rip Taylor,niftyname
+Rod Taylor,niftyname
+Ann Taylor,niftyname
+Lew Archer,niftyname
+It's My Life,niftyname
+Tautou,niftyname
+Wausau,name
+Mr. Blue,niftyname
+pomace,nifty
+Hanuman,nifty
+Pelops,niftyname
+Varese,finename
+Pinter,niftyname
+Sommer,niftyname,fineforeign
+so many,almost
+G-spot,goodalmost
+G-spots,goodalmost
+Dodoma,niftyname
+ay papi,niftyforeign
+Batali,goodname
+Gracie,niftyname
+bigeye,nifty
+redear,nifty
+multi,goodaffix
+Setzer,niftyname
+Nagano,niftyname
+petit,goodfitb,goodforeign
+McHugh,finename
+Pacula,niftyname
+Pulver,niftyname
+Penang,niftyname
+Ladakh,finename
+Cohiba,finename
+Toledan,nifty
+triste,niftyforeign
+Tenafly,name
+titivate,fine
+militate,fine
+liniment,nifty
+Alitalia,dated
+Khatami,finename
+Waite,niftyname
+Minnelli,niftyname
+xanthate,tech
+Valletta,niftyname
+Ellie May,niftyname
+Kathie,niftyname
+Millikan,niftyname
+Maxell,niftyname
+Nixon,goodname
+exhalant,nifty
+Manet,goodname
+Laila Ali,niftyname
+Tammany,niftyname
+Kaylenz,niftyname
+Khamenei,niftyname
+Ma Kettle,niftyname
+haematin,fine
+Aitana,niftyname
+El ALfa,niftyname
+Eataly,niftyname
+Ammani,niftyname
+ataxia,medical
+tamal,fineforeign,var
+Henin,niftyname
+Ayanami,niftyname
+Anita,handyname
+Falana,niftyname
+Lalami,niftyname
+Titane,finename
+Ayelet,niftyname
+Almaty,finename
+Alinea,niftyname
+Milana,niftyname
+Manne,niftyname
+Altman,goodname
+Amelia,goodname
+Amelias,contriveds
+Lalah,niftyname
+Hatami,niftyname
+Yelle,niftyname
+temaki,nifty
+Amini,finename
+Isaak,niftyname
+Irwin,goodname
+Isaac,goodname
+Isaacs,contriveds,finename
+LASIK,nifty
+Natalie,goodname
+Ozempic,niftyname
+Sajak,niftyname
+Sandra,niftyname
+Sapporo,finename
+I Hate Men,niftyname
+Khanna,niftyname
+Lenae,niftyname
+Nakate,niftyname
+Vitali,niftyname
+Mihaly,niftyname
+Faenza,finename
+ill-lit,niftyalmost
+If I Fell,niftyname
+Zanele,niftyname
+Minka,niftyname
+hamate,nifty
+Levine,goodname
+Healey,niftyname
+Velez,niftyname
+Melle,niftyname
+filmi,nifty
+Falla,niftyname
+Hilma,niftyname
+xenia,nifty
+Amelie,goodname
+xylene,fine
+Tallman,niftyname
+valvelet,fine
+Athenian,nifty
+Willa,niftyname
+The Fame,niftyname
+Half Man,niftyname
+alinement,var
+at a halt,niftyalmost
+wall tent,fine
+Kaelin,finename
+analyte,fine
+Walken,goodname
+ville,goodaffix
+ilmenite,nifty
+Te Kanawa,niftyname
+new take,niftyalmost
+XHTML,niftyname,fineabbrev
+Malawian,nifty
+melamine,fine
+The Fan,niftyname
+Little Me,niftyname
+white men,longpartial
+Tillie,niftyname
+teenie,goodfitb
+Hattie,niftyname
+Mannheim,niftyname
+velleity,nifty
+Tell Mama,niftyname
+Nine Mile,niftyname
+Katmai,niftyname
+Miami Ink,niftyname
+ante-nave,fine
+All I Want,niftyname
+Tikitiki,finename
+Mathew,niftyname
+Tennille,niftyname
+Nextel,dated,finename
+Helvetia,niftyname
+The Maine,niftyname
+Eli Lilly,niftyname
+Like Mike,niftyname
+Mahwah,finename
+Wiene,niftyname
+Mateen,niftyname
+Alita,handyname
+tikka,goodfitb
+Nanak,niftyname
+Yeelen,finename
+Ameen,niftyname
+fantail,nifty
+Whitman,goodname
+Lambo,niftyabbrev
+Lillian,niftyname
+Lilly,niftyname
+Tiffani,niftyname
+Tiffany,goodname
+Waikiki,goodname
+Titania,handyname
+Tennant,goodname
+Nimoy,handyname
+Left Eye,niftyname
+familia,niftyforeign
+Melania,handyname
+A A Milne,handyname
+Winkie,niftyname
+Wikileaf,finename
+take-all,fine
+All I feel,niftyname
+I'm new,niftyalmost
+in key,niftyalmost
+Lilian,niftyname
+antitax,nifty
+minimax,nifty
+Eileen,handyname
+Lenin,goodname
+Kathleen,niftyname
+Kiwanian,niftyname
+New Latin,nifty
+Tawney,niftyname
+Mahayana,nifty
+if any,niftyalmost
+in all,niftyalmost
+Lent lily,fine
+Amalia,niftyname
+Ava Max,niftyname
+al-Ali,niftyname
+Amiel,niftyname
+Laval,niftyname
+Henze,niftyname
+Livvy,niftyname
+Leahy,niftyname
+Mitya,niftyname
+Emeli,niftyname
+Naima,niftyname
+Itami,niftyname
+Villella,niftyname
+Iliza,niftyname
+Melvil,niftyname
+Malkin,niftyname
+Kameny,niftyname
+Kavan,niftyname
+Mattie,niftyname
+Yinka,niftyname
+Hanya,niftyname
+Malina,niftyname
+Meath,niftyname
+Amleth,niftyname
+in faith,niftyalmost
+methyl,nifty
+Mainz,niftyname
+Kweli,niftyname
+my eye,goodalmost
+Taika,goodname
+Waley,niftyname
+Tveit,niftyname
+Elena,handyname
+Amana,handyname
+Hayat,niftyname
+Evita,goodname
+Evitas,contriveds
+Matta,niftyname
+venal,nifty
+Leila,niftyname
+taketh,niftyfitb
+Amy Tan,handyname
+Melvin,niftyname
+Eliel,niftyname
+veinte,niftyforeign
+Keala,niftyname
+LeMay,niftyname
+Ximena,niftyname
+Timnit,niftyname
+hinky,nifty
+Mammy,niftyname
+fatale,niftyfitb
+I meant,niftyalmost
+New Level,niftyname
+Femen,niftyname
+Nneka,niftyname
+I've eaten,niftyalmost
+Waka Waka,niftyname
+weeny,goodfitb
+in a while,niftyalmost
+Telnet,nifty
+My Mammy,niftyname
+The Hawk,niftyname
+In My Life,niftyname
+tenement,nifty
+Mini-Me,niftyname
+Judaica,nifty
+Bugsy,niftyname
+sacristy,nifty
+oleoresin,nifty
+Rajiv,niftyname
+legals,fineplural
+omophagia,hmm
+anatomies,fineplural
+Alan Lomax,niftyname
+The Troggs,niftyname
+Iron Range,niftyname
+The Pips,niftyname
+ravigote,nifty
+Baracus,niftyname
+Calum,niftyname
+Adiga,niftyname
+wobegone,var
+Apennines,niftyname
+gabagool,nifty
+Renault,handyname
+HO gauge,nifty
+Florenz,niftyname
+Taki,niftyname
+Takis,niftyname
+flatteries,fineplural
+plumberies,fineplural
+flummeries,fineplural
+Snape,hmm
+demi-sec,nifty
+apotropaic,nifty
+wharfinger,nifty
+wharfingers,nifty
+frambesia,downer
+The Gemini,finename
+sea grape,nifty
+sea grapes,nifty
+in a pile,niftyalmost
+analeptic,nifty
+Tiago,finename
+Stagg,niftyname
+paratha,nifty
+Stapleton,finename
+Feeld,niftyname
+nuevo,goodforeign
+buena,goodforeign
+arginine,nifty
+Buchi,niftyname
+Joely,niftyname
+Becky,niftyname
+Aftab,niftyname
+Nyack,name
+Shirelles,niftyname
+Neera,niftyname
+Negri,niftyname
+Mekas,niftyname
+Aira,niftyname
+Gira,niftyname
+Kira,niftyname
+bocci,niftyforeign
+Rorty,niftyname
+Rurik,niftyname
+Nagra,niftyname
+so spicy,greenpaint
+Johanns,contriveds
+Johanna,niftyname
+asura,nifty
+Kronk,handyname
+Dolby,goodname
+Atmos,goodname
+in extenso,niftyforeign
+no hands,niftyalmost
+Claud,niftyname
+Ithaca,goodname
+Rampal,niftyname
+Gillis,niftyname
+Delsarto,niftyname
+sedum,nifty
+sedums,nifty
+Morrissey,niftyname
+von Bulow,niftyname
+Jack Soo,niftyname
+KFlay,niftyname
+Estes Park,niftyname
+Roscoe Lee,niftyname
+akinesia,fine
+on the sea,greenpaint
+Baird,niftyname
+Beart,niftyname
+Marietta,niftyname
+Twombly,niftyname
+Wallenda,niftyname
+Violetta,niftyname
+The ABCs,greenpaint
+Ob-Irtysh,finename
+poori,nifty
+antabuse,finename
+Anita Loos,niftyname
+prima,goodfitb
+Biloxi,niftyname
+ordinate,nifty
+Natty Boh,niftyname
+Jose Rizal,niftyname
+Lamar Odom,niftyname
+Germaine,niftyname
+Shadrach,niftyname
+Chastain,niftyname
+slew of,niftyalmost
+Beldar,niftyname
+Netanyahu,niftyname
+Dweezil,niftyname
+Cohens,contriveds
+Prestone,niftyname
+Kid Rock,hmm
+Osakan,nifty
+CanLit,nifty
+Maria Ressa,niftyname
+Gibbler,niftyname
+nacres,fineplural
+Carlson,niftyname
+Anne Morrow,longpartial
+Ivanisevic,niftyname
+paragonite,nifty
+peridotite,nifty
+rose mallow,nifty
+Andy Murray,niftyname
+Tommie Agee,niftyname
+Clair,goodname
+Blair,goodname
+Danelaw,niftyname
+saltarello,nifty
+Pecos River,niftyname
+Adige River,niftyname
+Oetker,niftyname
+in a pet,niftyalmost
+Tonkin,niftyname
+Jon Kyl,niftyname
+Zonker,niftyname
+Agnes of God,niftyname
+Radio Radio,niftyname
+Opeth,niftyname
+glatt,nifty
+bunko,nifty
+Paw Patrol,goodname
+Lee Elder,niftyname
+Graza,niftyname
+Wopat,niftyname
+Amory,niftyname
+Breyer,handyname
+Emory,handyname
+woodhen,nifty
+Nayyar,niftyname
+Salazar,niftyname
+Sarazen,niftyname
+Robby,niftyname
+Lockes,contriveds
+Joakim,niftyname
+Niebuhr,niftyname
+Samsons,fineplural,niftyname
+telesis,nifty
+ubiety,nifty
+phrenic,nifty
+Vijay,niftyname
+Majel,niftyname
+Scholl,niftyname
+Bangui,niftyname
+Knudsen,niftyname
+Knossos,niftyname
+Holbein,niftyname
+toggery,nifty
+Megyn,niftyname
+Popovich,niftyname
+The Sea,niftyname
+the sky,greenpaint
+statice,nifty
+Seyrig,niftyname
+Katowice,niftyname
+Bogota,niftyname
+Leiber,niftyname
+Shmoo,niftyname
+Alice Faye,niftyname
+Sharif,niftyname
+Nastia,niftyname
+Tirpitz,niftyname
+epicene,nifty
+Wilco,goodname
+Vidal,goodname
+wazoos,fineplural
+anglo,goodfitb
+Adrian,niftyname
+Adrien,niftyname
+chaffs,fineplural
+malices,fineplural
+ultimata,fineplural
+obeisance,nifty
+advices,fineplural
+Love Canal,niftyname
+glossitis,fine
+sinusitis,fine
+Funicello,niftyname
+Felice,niftyname
+Ivanovic,niftyname
+Gitano,niftyname
+Gitanos,niftyname
+bad pr,niftyalmost
+choler,nifty
+Crozer,finename
+PowerPC,dated
+Modine,niftyname
+Wabash,niftyname
+amour-propre,niftyforeign

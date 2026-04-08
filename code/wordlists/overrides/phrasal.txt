@@ -1,0 +1,3528 @@
+act as,niftyphrasal
+acts as,niftyphrasal
+acted as,niftyphrasal
+acting as,niftyphrasal
+came as,niftyphrasal
+come as,niftyphrasal
+comes as,niftyphrasal
+coming as,niftyphrasal
+pass as,niftyphrasal
+passed as,niftyphrasal
+passes as,niftyphrasal
+passing as,niftyphrasal
+saw as,niftyphrasal
+see as,niftyphrasal
+seeing as,niftyphrasal
+seen as,niftyphrasal
+set as,prep
+sets as,prep
+setting as,prep
+aim at,niftyphrasal
+aimed at,niftyphrasal
+aiming at,niftyphrasal
+aims at,niftyphrasal
+bit at,prep
+bite at,prep
+bites at,prep
+biting at,prep
+blink at,niftyphrasal
+blinked at,niftyphrasal
+blinking at,niftyphrasal
+blinks at,niftyphrasal
+boo at,prep
+booed at,prep
+booing at,prep
+boos at,prep
+carp at,prep
+cuss at,prep
+cussed at,prep
+cusses at,prep
+cussing at,prep
+dab at,prep
+dabbed at,prep
+dabbing at,prep
+dabs at,prep
+dig at,goodphrasal
+digging at,goodphrasal
+drive at,goodphrasal
+driving at,goodphrasal
+drove at,goodphrasal
+dug at,goodphrasal
+flail at,prep
+flailed at,prep
+flailing at,prep
+flails at,prep
+flew at,prep
+flies at,prep
+fly at,prep
+flying at,prep
+get at,niftyphrasal
+gets at,niftyphrasal
+getting at,niftyphrasal
+had at,goodphrasal
+has at,goodphrasal
+hiss at,prep
+hissed at,prep
+hisses at,prep
+hissing at,prep
+hit at,prep
+hits at,prep
+hitting at,prep
+jab at,prep
+jabbed at,prep
+jabbing at,prep
+jabs at,prep
+keeps at,goodphrasal
+kneel at,prep
+kneeled at,prep
+kneeling at,prep
+kneels at,prep
+lash at,prep
+lashed at,prep
+lashes at,prep
+lashing at,prep
+leer at,prep
+leered at,prep
+leering at,prep
+leers at,prep
+let at,fineforeign,prep
+lets at,prep
+letting at,prep
+look at,prep
+looked at,prep
+looking at,prep
+looks at,prep
+meet at,prep
+meeting at,prep
+meets at,prep
+met at,prep
+nip at,prep
+nipped at,prep
+nipping at,prep
+nips at,prep
+nod at,prep
+nodded at,prep
+nodding at,prep
+nods at,prep
+paw at,prep
+pawed at,prep
+pawing at,prep
+paws at,prep
+pull at,goodphrasal
+pulled at,goodphrasal
+pulling at,goodphrasal
+pulls at,goodphrasal
+rail at,prep
+railed at,prep
+railing at,prep
+rails at,prep
+ran at,prep
+rant at,prep
+ranted at,prep
+ranting at,prep
+rants at,prep
+rip at,prep
+ripped at,prep
+ripping at,prep
+rips at,prep
+roar at,prep
+roared at,prep
+roaring at,prep
+roars at,prep
+run at,prep
+running at,prep
+runs at,prep
+rush at,prep
+rushed at,prep
+rushes at,prep
+rushing at,prep
+sat at,prep
+sell at,prep
+selling at,prep
+sells at,prep
+set at,niftyphrasal
+sets at,niftyphrasal
+setting at,niftyphrasal
+shoot at,prep
+shooting at,prep
+shoots at,prep
+shop at,prep
+shopped at,prep
+shopping at,prep
+shops at,prep
+shot at,prep
+sit at,prep
+sits at,prep
+sitting at,prep
+slap at,prep
+slapped at,prep
+slapping at,prep
+slaps at,prep
+smile at,prep
+smiled at,prep
+smiles at,prep
+smiling at,prep
+snap at,niftyphrasal
+snapped at,niftyphrasal
+snapping at,niftyphrasal
+snaps at,niftyphrasal
+sneer at,prep
+sneered at,prep
+sneering at,prep
+sneers at,prep
+sold at,prep
+stand at,prep
+standing at,prep
+stands at,prep
+stood at,prep
+stop at,prep
+stopped at,prep
+stopping at,prep
+stops at,prep
+tilt at,goodphrasal
+tilted at,goodphrasal
+tilting at,goodphrasal
+tilts at,goodphrasal
+toiling at,prep
+tug at,prep
+tugged at,prep
+tugging at,prep
+tugs at,prep
+tweet at,prep
+tweeted at,prep
+tweeting at,prep
+tweets at,prep
+was at,prep
+wave at,prep
+waved at,prep
+waves at,prep
+waving at,prep
+win at,prep
+winning at,prep
+wins at,prep
+won at,prep
+perch atop,prep
+perched atop,prep
+perches atop,prep
+perching atop,prep
+floats by,prep
+ran by,goodphrasal
+run by,goodphrasal
+running by,goodphrasal
+runs by,goodphrasal
+slid by,prep
+slide by,prep
+slides by,prep
+sliding by,prep
+stoop down,prep
+stooped down,prep
+stoops down,prep
+stopping down,prep
+lied for,niftyphrasal
+lie for,niftyphrasal
+lies for,niftyphrasal
+lying for,niftyphrasal
+acted in,prep
+act in,nifty,prep
+acting in,prep
+acts in,prep
+asked in,niftyphrasal
+ask in,niftyphrasal
+asking in,niftyphrasal
+asks in,niftyphrasal
+carted in,prep
+cart in,prep
+carting in,prep
+carts in,prep
+creeps in,prep
+dialed in,goodphrasal
+dial in,goodphrasal
+dialing in,goodphrasal
+dials in,goodphrasal
+did in,goodphrasal
+died in,downer
+die in,goodalmost
+die ins,goodalmost
+dies in,downer
+digged in,goodphrasal
+digging in,goodphrasal
+dig in,goodphrasal
+digs in,goodphrasal
+dip in,prep
+dipped in,prep
+dipping in,prep
+dips in,prep
+do in,goodphrasal
+does in,goodphrasal
+doing in,goodphrasal
+done in,goodphrasal
+dying in,prep
+elbowed in,prep
+elbow in,prep
+elbowing in,prep
+elbows in,prep
+enrolled in,prep
+enroll in,prep
+enrolling in,prep
+enrolls in,prep
+fall in,goodphrasal
+falling in,goodphrasal
+falls in,goodphrasal
+fed in,goodphrasal
+feed in,goodphrasal
+feeding in,goodphrasal
+feeds in,goodphrasal
+fell in,goodphrasal
+iced in,goodphrasal
+ice in,goodphrasal
+ices in,goodphrasal
+icing in,goodphrasal
+inked in,prep
+ink in,prep
+inking in,prep
+inks in,prep
+irised in,goodphrasal
+irises in,goodphrasal
+iris in,goodalmost,goodphrasal
+irising in,goodphrasal
+keep in,niftyphrasal
+keeping in,niftyphrasal
+keeps in,niftyphrasal
+kept in,niftyphrasal
+let in,goodphrasal
+lets in,goodphrasal
+letting in,goodphrasal
+lie in,prep,niftyalmost
+lies in,prep,niftyalmost
+looped in,goodphrasal
+loop in,goodphrasal
+loops in,goodphrasal
+lying in,prep
+mailed in,prep
+mail in,goodalmost,prep
+mailing in,prep
+mails in,prep
+peered in,prep
+peer in,prep
+peering in,prep
+peers in,prep
+pen in,goodphrasal
+penned in,goodphrasal
+penning in,goodphrasal
+pens in,goodphrasal
+persisted in,prep
+persist in,prep
+persisting in,prep
+persists in,prep
+ram in,prep
+rammed in,prep
+ramming in,prep
+rams in,prep
+reeled in,goodphrasal
+reel in,goodphrasal
+reeling in,goodphrasal
+reels in,goodphrasal
+reined in,goodphrasal
+rein in,goodphrasal
+reining in,goodphrasal
+reins in,goodphrasal
+resulted in,prep
+result in,prep
+resulting in,prep
+results in,prep
+rolled in,goodphrasal
+roll in,goodphrasal
+rolling in,goodphrasal
+rolls in,goodphrasal
+saw in,goodphrasal
+sealed in,prep
+seal in,prep
+sealing in,prep
+seals in,prep
+see in,goodphrasal
+seeing in,goodphrasal
+seen in,goodphrasal
+seeped in,prep
+seep in,prep
+seeping in,prep
+seeps in,prep
+sees in,goodphrasal
+set in,goodphrasal
+sets in,goodphrasal
+setting in,goodphrasal
+shades in,prep
+shared in,prep
+share in,prep
+shares in,prep
+sharing in,prep
+showed in,goodphrasal
+show in,goodphrasal
+showing in,goodphrasal
+shown in,goodphrasal
+shows in,goodphrasal
+sketch in,prep
+sleep in,goodphrasal
+sleeping in,goodphrasal
+sleeps in,goodphrasal
+slept in,goodphrasal
+slides in,prep
+slid in,prep
+smashed in,prep
+smashes in,prep
+smash in,prep
+smashing in,prep
+snap in,prep
+snapped in,prep
+snapping in,prep
+snaps in,prep
+sneaked in,goodphrasal
+sneak in,goodphrasal
+sneaks in,goodphrasal
+staved in,goodphrasal
+stave in,goodphrasal
+staves in,goodphrasal
+staving in,goodphrasal
+steal in,goodphrasal
+stealing in,goodphrasal
+steals in,goodphrasal
+steeped in,prep
+steep in,prep
+steeping in,prep
+steeps in,prep
+step in,goodphrasal
+stepped in,goodphrasal
+stepping in,goodphrasal
+steps in,goodphrasal
+stir in,niftyphrasal
+stirred in,niftyphrasal
+stirring in,niftyphrasal
+stirs in,niftyphrasal
+stole in,goodphrasal
+stove in,goodphrasal
+stoven in,goodphrasal
+stride in,prep
+strides in,prep
+striding in,prep
+strode in,prep
+swear in,goodphrasal
+swearing in,goodphrasal
+swears in,goodphrasal
+swore in,goodphrasal
+traded in,goodphrasal
+trade in,goodphrasal
+trades in,goodphrasal
+tromped in,prep
+tromp in,prep
+tromps in,prep
+weaved in,niftyphrasal
+weave in,niftyphrasal
+weaves in,niftyphrasal
+weaving in,niftyphrasal
+wheeled in,prep
+wheel in,niftyname,prep
+wheeling in,prep
+wheels in,prep
+write in,goodalmost,goodphrasal
+writes in,goodphrasal
+writing in,goodphrasal
+wrote in,goodphrasal
+zoomed in,goodphrasal
+zoom in,goodphrasal
+zooming in,goodphrasal
+zooms in,goodphrasal
+came into,niftyphrasal
+come into,niftyphrasal
+comes into,niftyphrasal
+coming into,niftyphrasal
+eased into,prep
+ease into,prep
+eases into,prep
+easing into,prep
+pried into,prep
+pries into,prep
+prying into,prep
+pry into,prep
+slam into,prep
+slammed into,prep
+slamming into,prep
+slams into,prep
+nailed it,goodalmost,goodphrasal
+nailing it,goodphrasal
+nail it,goodphrasal
+nails it,goodphrasal
+asked of,prep
+asking of,prep
+ask of,prep
+asks of,prep
+dreamed of,prep
+dreaming of,prep
+dream of,prep
+dreams of,prep
+reeked of,prep
+reeking of,prep
+reek of,prep
+reeks of,prep
+act on,finename,niftyphrasal
+acted on,niftyphrasal
+acting on,niftyphrasal
+acts on,niftyphrasal
+bailing on,prep
+barged in on,prep
+barge in on,prep
+barges in on,prep
+barging in on,prep
+carried on,prep
+carries on,prep
+carrying on,prep
+carry on,goodalmost,prep
+feed on,prep
+feeds on,prep
+fed on,prep
+feeding on,prep
+fit on,prep
+fits on,prep
+fitted on,prep
+fitting on,prep
+gained on,niftyphrasal
+gaining on,niftyphrasal
+gain on,niftyphrasal
+gains on,niftyphrasal
+gnawed on,prep
+gnawing on,prep
+gnaw on,prep
+gnaws on,prep
+gorged on,prep
+gorge on,prep
+gorges on,prep
+gorging on,prep
+grated on,prep
+grate on,prep
+grates on,prep
+grating on,prep
+horn in on,prep
+horns in on,prep
+horning in on,prep
+horned in on,prep
+insisted on,prep
+insisting on,prep
+insist on,prep
+insists on,prep
+kneel on,prep
+leaned on,prep
+leaning on,prep
+lean on,prep
+leans on,prep
+lie on,prep
+lies on,prep
+lose out on,prep
+lying on,prep
+missed out on,prep
+misses out on,prep
+missing out on,prep
+missout on,prep
+narced on,prep
+narcing on,prep
+narc on,prep
+narcs on,prep
+partied on,prep
+parties on,prep
+partying on,prep
+party on,good,prep
+perched on,prep
+perches on,prep
+perching on,prep
+perch on,prep
+pounded on,prep
+pounding on,prep
+pound on,prep
+pounds on,prep
+rail on,niftyphrasal
+rails on,niftyphrasal
+railed on,niftyphrasal
+railing on,niftyphrasal
+rain on,niftyphrasal
+rains on,niftyphrasal
+rained on,niftyphrasal
+raining on,niftyphrasal
+ran on,goodphrasal
+rat on,prep
+rats on,prep
+ratted on,prep
+ratting on,prep
+running on,goodphrasal
+run on,goodphrasal
+sailed on,prep
+sailing on,prep
+sail on,prep
+sails on,prep
+seizing on,prep
+sat on,goodphrasal
+set on,goodphrasal
+sets on,goodphrasal
+setting on,goodphrasal
+sewed on,prep
+sewing on,prep
+sew on,prep
+sews on,prep
+shedded on,prep
+shedding on,prep
+shed on,prep
+sheds on,prep
+sicced on,prep
+siccing on,prep
+sic on,prep
+sics on,prep
+sip on,prep
+sipped on,prep
+sipping on,prep
+sips on,prep
+sit on,goodphrasal
+sits on,goodphrasal
+sitting on,goodphrasal
+sleep on,asset
+sleeps on,asset
+slept on,nifty,asset
+sleeping on,asset
+slide on,prep
+slides on,prep
+sliding on,prep
+slid on,prep
+slop on,prep
+slopped on,prep
+slopping on,prep
+slops on,prep
+smiled on,niftyphrasal
+smile on,niftyphrasal
+smiles on,niftyphrasal
+smiling on,niftyphrasal
+spending on,prep
+spend on,prep
+spends on,prep
+spent on,prep
+spied on,prep
+spies on,prep
+sprayed on,prep
+spraying on,prep
+spray on,niftyalmost,prep
+sprays on,prep
+spying on,prep
+spy on,prep
+started on,prep
+starting on,prep
+start on,prep
+starts on,prep
+step on,prep
+stepped on,prep
+stepping on,prep
+steps on,good,prep
+taped on,prep
+tape on,prep
+tapes on,prep
+taping on,prep
+threw on,goodphrasal
+throw on,goodphrasal
+throws on,goodphrasal
+tied on,prep
+tie on,prep
+ties on,prep
+traded on,niftyphrasal
+trade on,niftyphrasal
+trades on,niftyphrasal
+trading on,niftyphrasal
+tying on,prep
+waited on,goodphrasal
+waiting on,goodphrasal
+wait on,goodphrasal
+waits on,goodphrasal
+worked on,prep
+working on,prep
+work on,prep
+works on,prep
+zeroed in on,prep
+zeroing in on,prep
+zer oin on,prep
+zeros in on,prep
+aced out,niftyphrasal
+ace out,niftyphrasal
+aces out,niftyphrasal
+acing out,niftyphrasal
+elbowed out,prep
+elbowing out,prep
+elbow out,prep
+elbows out,name,prep
+iced out,goodphrasal
+ice out,goodphrasal
+ices out,goodphrasal
+ooze out,prep
+added to,prep
+adding to,prep
+adds to,prep
+add to,prep
+admits to,prep
+admitted to,prep
+admitting to,prep
+admit to,prep
+aimed to,goodphrasal
+aiming to,goodphrasal
+aims to,goodphrasal
+aim to,goodphrasal
+asked to,goodphrasal
+asking to,goodphrasal
+asks to,goodphrasal
+ask to,goodphrasal
+assented to,prep
+assenting to,prep
+assents to,prep
+assent to,prep
+attempt to,prep
+bringing to,niftyphrasal
+brings to,niftyphrasal
+bring to,niftyphrasal
+brought to,niftyphrasal
+cared to,niftyphrasal
+cares to,niftyphrasal
+care to,niftyphrasal
+caring to,niftyphrasal
+ceded to,prep
+cedes to,prep
+cede to,prep
+ceding to,prep
+clinging to,prep
+clings to,prep
+cling to,prep
+clung to,prep
+dared to,prep
+dares to,prep
+dare to,prep
+daring to,prep
+dashed to,prep
+dashes to,prep
+dashing to,prep
+dash to,prep
+drawing to,niftyphrasal
+draws to,niftyphrasal
+draw to,niftyphrasal
+drew to,niftyphrasal
+dying to,goodphrasal
+fed to,prep
+feeding to,prep
+feeds to,prep
+feed to,prep
+flew to,prep
+flies to,prep
+flocked to,prep
+flocking to,prep
+flocks to,prep
+flock to,prep
+flying to,prep
+fly to,prep
+gave to,prep
+gets to,goodphrasal
+getting to,goodphrasal
+get to,goodphrasal
+gives to,prep
+give to,prep
+giving to,prep
+glued to,prep
+glues to,prep
+glue to,prep
+gluing to,prep
+handed to,prep
+handing to,prep
+hands to,prep
+hand to,prep
+hasgot to,prep
+havegot to,prep
+hits to,prep
+hitting to,prep
+hit to,prep
+leading to,goodphrasal
+leads to,goodphrasal
+lead to,goodphrasal
+leaned to,prep
+leaning to,prep
+leans to,prep
+lean to,prep
+led to,goodphrasal
+lending to,prep
+lends to,prep
+lend to,prep
+lent to,prep
+lied to,prep
+lies to,prep
+lie to,prep
+linked to,prep
+linking to,prep
+links to,prep
+link to,prep
+listened to,niftyphrasal
+listening to,niftyphrasal
+listens to,niftyphrasal
+listen to,niftyphrasal
+loaned to,prep
+loaning to,prep
+loans to,prep
+loan to,prep
+longed to,prep
+longing to,prep
+longs to,prep
+long to,prep
+loses to,prep
+lose to,prep
+losing to,prep
+lost to,prep
+lying to,prep
+mails to,prep
+meaning to,prep
+means to,prep
+mean to,prep
+meant to,prep
+named to,prep
+names to,prep
+name to,prep
+naming to,prep
+need to,prep
+needs to,prep
+needed to,prep
+needing to,prep
+nodded to,prep
+nodding to,prep
+nods to,prep
+nod to,prep
+opted to,prep
+opting to,prep
+opts to,prep
+opt to,prep
+ordered to,prep
+ordering to,prep
+orders to,prep
+order to,prep
+owed to,prep
+owes to,prep
+owe to,prep
+owing to,prep
+passed to,prep
+passes to,prep
+passing to,prep
+pass to,prep
+planned to,prep
+planning to,prep
+plans to,prep
+plan to,prep
+prone to,prep
+raced to,prep
+races to,prep
+race to,prep
+racing to,prep
+ran to,prep
+rented to,prep
+renting to,prep
+rents to,prep
+rent to,prep
+reported to,prep
+reporting to,prep
+reports to,prep
+report to,prep
+rides to,prep
+ride to,prep
+riding to,prep
+rode to,prep
+running to,prep
+runs to,prep
+run to,prep
+rushed to,prep
+rushes to,prep
+rushing to,prep
+rush to,prep
+saved to,prep
+saves to,prep
+save to,prep
+saving to,prep
+saw to,goodphrasal
+seeing to,goodphrasal
+seen to,goodphrasal
+sees to,goodphrasal
+see to,goodphrasal
+sending to,prep
+sends to,prep
+send to,prep
+sent to,prep
+sets to,goodphrasal
+setting to,goodphrasal
+set to,goodphrasal
+snapped to,goodphrasal
+snapping to,goodphrasal
+snaps to,goodphrasal
+snap to,goodphrasal
+soared to,prep
+soaring to,prep
+soars to,prep
+soar to,prep
+speed to,prep
+standing to,niftyphrasal
+stands to,niftyphrasal
+stand to,niftyphrasal
+started to,prep
+starting to,prep
+starts to,prep
+start to,prep
+steered to,prep
+steering to,prep
+steers to,prep
+steer to,prep
+stood to,niftyphrasal
+sum to,prep
+taken to,goodphrasal
+taped to,prep
+tapes to,prep
+tape to,prep
+taping to,prep
+tossed to,prep
+tosses to,prep
+tossing to,prep
+toss to,prep
+treated to,goodphrasal
+treating to,goodphrasal
+treats to,goodphrasal
+treat to,goodphrasal
+tuned to,prep
+tunes to,prep
+tune to,prep
+tuning to,prep
+turned to,goodphrasal
+turning to,goodphrasal
+turns to,goodphrasal
+turn to,goodphrasal
+waited to,prep
+waiting to,prep
+waits to,prep
+wait to,prep
+waved to,prep
+waves to,prep
+wave to,prep
+waving to,prep
+wedded to,prep
+wedding to,prep
+weds to,prep
+wed to,prep
+wired to,prep
+wires to,prep
+wire to,prep
+wiring to,prep
+wised to,niftyphrasal
+wisen to,niftyphrasal
+wises to,niftyphrasal
+wise to,niftyphrasal
+wising to,niftyphrasal
+writes to,prep
+write to,prep
+writing to,prep
+wrote to,prep
+acted up,goodphrasal
+acting up,goodphrasal
+acts up,goodphrasal
+act up,goodphrasal
+amped up,goodphrasal
+amping up,goodphrasal
+amps up,goodphrasal
+amp up,goodphrasal
+asked up,goodphrasal
+asking up,goodphrasal
+asks up,goodphrasal
+ask up,goodphrasal
+climbed up,prep
+climbing up,prep
+climbs up,prep
+climb up,prep
+eyed up,goodphrasal
+eyes up,goodphrasal
+eye up,goodphrasal
+flared up,goodphrasal
+flares up,goodphrasal
+flare up,goodphrasal
+flaring up,goodphrasal
+forked up,goodphrasal
+forking up,goodphrasal
+forks up,goodphrasal
+fork up,goodphrasal
+gave up,goodphrasal
+give up,goodphrasal
+giving up,goodphrasal
+iced up,goodphrasal
+ices up,goodphrasal
+ice up,goodphrasal
+icing up,goodphrasal
+nailed up,prep
+nailing up,prep
+nails up,prep
+nail up,prep
+paid up,goodphrasal
+paying up,goodphrasal
+pays up,goodphrasal
+pay up,goodphrasal
+raised up,prep
+raises up,prep
+raise up,prep
+raising up,prep
+ran up,goodphrasal
+ripped up,goodphrasal
+ripping up,goodphrasal
+rips up,goodphrasal
+rip up,goodphrasal
+running up,goodphrasal
+runs up,goodphrasal
+run up,goodphrasal
+saved up,goodphrasal
+saves up,goodphrasal
+save up,goodphrasal
+saving up,goodphrasal
+sexed up,goodphrasal
+sexes up,goodphrasal
+sexing up,goodphrasal
+sex up,goodphrasal
+slants up,prep
+sliced up,goodphrasal
+slices up,goodphrasal
+slice up,goodphrasal
+slicing up,goodphrasal
+sloped up,prep
+slopes up,prep
+slope up,prep
+sloping up,prep
+writing up,goodphrasal
+tots up,fineforeign
+totted up,fineforeign
+totting up,fineforeign
+tot up,fineforeign
+dam up,prep
+dams up,prep
+dammed up,prep
+damming up,prep
+tear up,goodphrasal
+tore up,goodphrasal
+tearing up,goodphrasal
+tears up,goodphrasal
+read up,goodphrasal
+reading up,goodphrasal
+reads up,goodphrasal
+rear up,goodphrasal
+rears up,goodphrasal
+reared up,goodphrasal
+rearing up,goodphrasal
+spit up,hmm
+spat up,hmm
+spits up,hmm
+spitting up,hmm
+tie to,prep
+ties to,prep
+tied to,prep
+tying to,prep
+gum up,goodphrasal
+gums up,goodphrasal
+gummed up,goodphrasal
+gumming up,goodphrasal
+xd in,prep
+x in,finename,prep
+xing in,prep
+xs in,prep
+xed in,prep
+hit on,goodphrasal
+hits on,goodphrasal
+hitting on,goodphrasal
+pin on,goodphrasal
+pins on,goodphrasal
+pinned on,goodphrasal
+pinning on,goodphrasal
+hid in,prep
+hide in,prep
+hides in,prep
+hiding in,prep
+tailor to,niftyphrasal
+tailors to,niftyphrasal
+tailored to,niftyphrasal
+tailoring to,niftyphrasal
+fog up,goodphrasal
+fogs up,goodphrasal
+fogged up,goodphrasal
+fogging up,goodphrasal
+mop up,goodphrasal
+mops up,goodphrasal
+mopped up,goodphrasal
+mopping up,goodphrasal
+rip on,goodphrasal
+rips on,goodphrasal
+ripped on,goodphrasal
+ripping on,goodphrasal
+pair up,goodphrasal
+paired up,goodphrasal
+pairs up,goodphrasal
+pairing up,goodphrasal
+nibble at,prep
+nibbled at,prep
+nibbles at,prep
+nibbling at,prep
+mash up,good,goodphrasal
+mashes up,goodphrasal
+mashed up,goodphrasal
+mashing up,goodphrasal
+star in,goodphrasal
+stars in,goodphrasal
+starred in,goodphrasal
+starring in,goodphrasal
+occurs to,niftyphrasal
+occur to,niftyphrasal
+occurred to,niftyphrasal
+occurring to,niftyphrasal
+switch to,prep
+switches to,prep
+switched to,prep
+switching to,prep
+sail into,prep
+sailed into,prep
+sails into,prep
+sailing into,prep
+scan in,prep
+scans in,prep
+scanned in,prep
+scanning in,prep
+load up,goodphrasal
+loads up,goodphrasal
+loaded up,goodphrasal
+loading up,goodphrasal
+meet up,good,goodphrasal
+met up,goodphrasal
+meeting up,goodphrasal
+meets up,goodphrasal
+put up,goodphrasal
+puts up,goodphrasal
+putting up,goodphrasal
+oil up,prep
+oils up,prep
+oiled up,prep
+oiling up,prep
+let up,goodphrasal
+letting up,goodphrasal
+lets up,goodphrasal
+rap at,goodphrasal
+raps at,goodphrasal
+rapped at,goodphrasal
+rapping at,goodphrasal
+fit in,goodphrasal
+fits in,goodphrasal
+fitting in,goodphrasal
+yapped at,prep
+yap at,prep
+yaps at,prep
+yapping at,prep
+put on,goodphrasal
+puts on,goodphrasal
+putting on,goodphrasal
+natter on,niftyphrasal
+nattered on,niftyphrasal
+nattering on,niftyphrasal
+natters on,niftyphrasal
+ink up,prep
+inks up,prep
+inked up,prep
+inking up,prep
+head up,goodphrasal
+heads up,goodalmost,goodphrasal
+headed up,goodphrasal
+heading up,goodphrasal
+drag up,goodphrasal
+dragged up,goodphrasal
+dragging up,goodphrasal
+drags up,goodphrasal
+leap on,prep
+leapt on,prep
+leaps on,prep
+leaping on,prep
+leapt at,goodphrasal
+leap at,goodphrasal
+leaps at,goodphrasal
+leaping at,goodphrasal
+value at,niftyphrasal
+values at,niftyphrasal
+valued at,niftyphrasal
+valuing at,niftyphrasal
+slip by,goodphrasal
+slips by,goodphrasal
+slipped by,goodphrasal
+slipping by,goodphrasal
+stare at,prep
+stares at,prep
+stared at,prep
+staring at,prep
+spit at,prep
+spits at,prep
+spitting at,prep
+spat at,prep
+dub in,niftyphrasal
+dubs in,niftyphrasal
+dubbed in,niftyphrasal
+dubbing in,niftyphrasal
+speak to,prep
+spoke to,prep
+speaks to,prep
+speaking to,prep
+usher in,goodphrasal
+ushers in,goodphrasal
+ushered in,goodphrasal
+ushering in,goodphrasal
+usher out,goodphrasal
+usherss out,goodphrasal
+ushering out,goodphrasal
+ushered out,goodphrasal
+dig it,good,goodphrasal
+dug it,goodphrasal
+digs it,goodphrasal
+digging it,goodphrasal
+bob up,prep
+bobs up,prep
+bobbed up,prep
+bobbing up,prep
+bid up,goodphrasal
+bids up,goodphrasal
+bidding up,goodphrasal
+tie up,goodphrasal
+ties up,goodphrasal
+tied up,goodphrasal
+tying up,goodphrasal
+gun it,goodphrasal
+guns it,goodphrasal
+gunned it,goodphrasal
+gunning it,goodphrasal
+lead on,goodphrasal
+led on,goodphrasal
+leads on,goodphrasal
+leading on,goodphrasal
+sew up,niftyphrasal
+sewn up,niftyphrasal
+sewed up,niftyphrasal
+sews up,niftyphrasal
+sewing up,niftyphrasal
+tart up,niftyphrasal
+tarts up,niftyphrasal
+tarted up,niftyphrasal
+tarting up,niftyphrasal
+type up,goodphrasal
+types up,goodphrasal
+typing up,goodphrasal
+typed up,goodphrasal
+tone up,goodphrasal
+tones up,goodphrasal
+toned up,goodphrasal
+toning up,goodphrasal
+end up,goodphrasal
+ends up,goodphrasal
+ended up,goodphrasal
+ending up,goodphrasal
+top out,goodphrasal
+tops out,goodphrasal
+topped out,goodphrasal
+topping out,goodphrasal
+top off,goodphrasal
+tops off,goodphrasal
+topping off,goodphrasal
+topped off,goodphrasal
+let on,goodphrasal
+lets on,goodphrasal
+letting on,goodphrasal
+tee up,goodphrasal
+teed up,goodphrasal
+tees up,goodphrasal
+teeing up,goodphrasal
+act as if,prep
+acts as if,prep
+acted as if,prep
+acting as if,prep
+ante up,prep
+antes up,prep
+anted up,prep
+anteing up,prep
+clue in,goodphrasal
+clued in,goodphrasal
+cluing in,goodphrasal
+clues in,goodphrasal
+tack on,goodphrasal
+tacks on,goodphrasal
+tacked on,goodphrasal
+tacking on,goodphrasal
+give in,goodphrasal
+gives in,goodphrasal
+giving in,goodphrasal
+gave in,goodphrasal
+dive in,goodphrasal
+dives in,goodphrasal
+dove in,goodphrasal
+diving in,goodphrasal
+move in,goodphrasal
+moves in,goodphrasal
+moved in,goodphrasal
+moving in,goodphrasal
+wave in,goodphrasal
+waved in,goodphrasal
+waving in,goodphrasal
+waves in,goodphrasal
+given in,goodphrasal
+slim up,eh
+slims up,eh
+slimmed up,eh
+slimming up,eh
+wove in,goodphrasal
+woven in,goodphrasal
+stir up,goodphrasal
+stirs up,goodphrasal
+stirred up,goodphrasal
+stirring up,goodphrasal
+get wise to,prep
+gets wise to,prep
+got wise to,prep
+getting wise to,prep
+steal away,goodphrasal
+steals away,goodphrasal
+stole away,goodphrasal
+stealing away,goodphrasal
+stop in,goodphrasal
+stops in,goodphrasal
+stopped in,goodphrasal
+stopping in,goodphrasal
+opt in,goodphrasal
+opts in,goodphrasal
+opted in,goodphrasal
+opting in,goodphrasal
+use on,prep
+uses on,prep
+using on,prep
+used on,prep
+get hung up,greenpaint
+got hung up,greenpaint
+getting hung up,greenpaint
+gets hung up,greenpaint
+get a bumrap,greenpaint
+got a bumrap,greenpaint
+getting a bumrap,greenpaint
+gets a bumrap,greenpaint
+lap at,prep
+laps at,prep
+lapped at,prep
+lapping at,prep
+groaned at,prep
+groan at,prep
+groaning at,prep
+groans at,prep
+snicker at,prep
+snickers at,prep
+snickered at,prep
+snickering at,prep
+rattle on,prep
+rattles on,prep
+rattled on,prep
+rattling on,prep
+scowl at,prep
+scowls at,prep
+scowled at,prep
+scowling at,prep
+grasp at,goodphrasal
+grasps at,goodphrasal
+grasping at,goodphrasal
+grasped at,goodphrasal
+hasahand in,goodphrasal
+hadahand in,goodphrasal
+hop over,prep
+hops over,prep
+hopped over,prep
+hopping over,prep
+cheat on,goodphrasal
+cheated on,goodphrasal
+cheats on,goodphrasal
+cheating on,goodphrasal
+tend to,goodphrasal
+tends to,goodphrasal
+tended to,goodphrasal
+tending to,goodphrasal
+shoo off,prep
+shoos off,prep
+shooed off,prep
+shooing off,prep
+leave on,goodphrasal
+left on,goodphrasal
+leaving on,goodphrasal
+leaves on,goodphrasal
+edit out,goodphrasal
+editing out,goodphrasal
+edited out,goodphrasal
+edits out,goodphrasal
+point out,goodphrasal
+points out,goodphrasal
+pointed out,goodphrasal
+pointing out,goodphrasal
+excel at,prep
+excels at,prep
+excelled at,prep
+excelling at,prep
+polish up,prep
+polished up,prep
+polishing up,prep
+polishes up,prep
+swoop up,prep
+swoops up,prep
+swooping up,prep
+swooped up,prep
+shine at,niftyphrasal
+shines at,niftyphrasal
+shining at,niftyphrasal
+shined at,niftyphrasal
+shoot for,goodphrasal
+shoots for,goodphrasal
+shooting for,goodphrasal
+shot for,goodphrasal
+shine on,goodphrasal
+shines on,goodphrasal
+shining on,goodphrasal
+shined on,goodphrasal
+toot at,prep
+toots at,prep
+tooted at,prep
+tooting at,prep
+retail at,prep
+retails at,prep
+retailed at,prep
+retailing at,prep
+appear in,niftyphrasal
+appears in,niftyphrasal
+appeared in,niftyphrasal
+appearing in,niftyphrasal
+holler at,prep
+hollered at,prep
+hollering at,prep
+hollers at,prep
+tease apart,prep
+teases apart,prep
+teased apart,prep
+teasing apart,prep
+appeal to,goodphrasal
+appeals to,goodphrasal
+appealed to,goodphrasal
+appealing to,goodphrasal
+wander in,prep
+wandered in,prep
+wandering in,prep
+wanders in,prep
+attended to,goodphrasal
+attends to,goodphrasal
+attending to,goodphrasal
+attend to,goodphrasal
+ships out,goodphrasal
+ship out,goodphrasal
+shipped out,goodphrasal
+shipping out,goodphrasal
+rely on,goodphrasal
+relies on,goodphrasal
+relied on,goodphrasal
+relying on,goodphrasal
+spur on,goodphrasal
+spurs on,goodphrasal
+spurred on,goodphrasal
+spurring on,goodphrasal
+dial nine one one,greenpaint
+dials nine one one,greenpaint
+dialed nine one one,greenpaint
+dialing nine one one,greenpaint
+call nine one one,greenpaint
+calls nine one one,greenpaint
+calling nine one one,greenpaint
+called nine one one,greenpaint
+ram into,prep
+rams into,prep
+ramming into,prep
+rammed into,prep
+swat at,prep
+swats at,prep
+swatting at,prep
+swatted at,prep
+swing at,prep
+swings at,prep
+swung at,prep
+swang at,prep
+swinging at,prep
+entitle to,prep
+entitled to,prep
+entitling to,prep
+entitles to,prep
+immerse in,goodphrasal
+immersed in,goodphrasal
+immerses in,goodphrasal
+immersing in,goodphrasal
+learns of,niftyphrasal
+learn of,niftyphrasal
+learning of,niftyphrasal
+learned of,niftyphrasal
+charge to,prep
+charges to,prep
+charging to,prep
+charged to,prep
+moti onto,niftyphrasal
+motions to,niftyphrasal
+motioned to,niftyphrasal
+motioning to,niftyphrasal
+tap into,goodphrasal
+taps into,goodphrasal
+tapped into,goodphrasal
+tapping into,goodphrasal
+cause a sensation,greenpaint
+causes a sensation,greenpaint
+caused a sensation,greenpaint
+causing a sensation,greenpaint
+paying tribute to,goodphrasal
+pay tribute to,goodphrasal
+pays tribute to,goodphrasal
+paid tribute to,goodphrasal
+peep at,prep
+peeps at,prep
+peeping at,prep
+peeped at,prep
+gnaw at,goodphrasal
+gnaws at,goodphrasal
+gnawing at,goodphrasal
+gnawed at,goodphrasal
+attach to,prep
+attaches to,prep
+attached to,prep
+attaching to,prep
+attest to,prep
+attests to,prep
+attesting to,prep
+attested to,prep
+file a petition,greenpaint
+files a petition,greenpaint
+filing a petition,greenpaint
+filed a petition,greenpaint
+add onto,prep
+adds onto,prep
+adding onto,prep
+added onto,prep
+hates to,niftyphrasal
+hate to,niftyphrasal
+hating to,niftyphrasal
+hated to,niftyphrasal
+cling onto,prep
+clings onto,prep
+clinging onto,prep
+clung onto,prep
+clinged onto,prep
+ride into,prep
+rides into,prep
+rode into,prep
+riding into,prep
+chance on,goodphrasal
+chancing on,goodphrasal
+chanced on,goodphrasal
+chances on,goodphrasal
+bat back and forth,greenpaint
+bats back and forth,greenpaint
+batting back and forth,greenpaint
+batted back and forth,greenpaint
+hop out,goodphrasal
+hops out,goodphrasal
+hopped out,goodphrasal
+hopping out,goodphrasal
+lay to,niftyphrasal
+lays to,niftyphrasal
+laid to,niftyphrasal
+laying to,niftyphrasal
+say to,prep
+says to,prep
+said to,prep
+saying to,prep
+let onto,niftyphrasal
+lets onto,niftyphrasal
+letting onto,niftyphrasal
+rush in,niftyphrasal
+rushes in,niftyphrasal
+rushed in,niftyphrasal
+rushing in,niftyphrasal
+lump in,goodphrasal
+lumps in,goodphrasal
+lumped in,goodphrasal
+lumping in,goodphrasal
+flit in,prep
+flits in,prep
+flitted in,prep
+flitting in,prep
+sat up,goodphrasal
+sit up,goodalmost,goodphrasal
+sits up,goodphrasal
+sitting up,goodphrasal
+fail at,prep
+fails at,prep
+failed at,prep
+failing at,prep
+do to,prep
+did to,prep
+does to,prep
+doing to,prep
+hack at,prep
+hacks at,prep
+hacked at,prep
+hacking at,prep
+had up,niftyphrasal
+have up,niftyphrasal
+has up,niftyphrasal
+having up,niftyphrasal
+have on,niftyphrasal
+has on,niftyphrasal
+having on,niftyphrasal
+had on,niftyphrasal
+switch on,niftyphrasal
+switches on,niftyphrasal
+switched on,niftyphrasal
+switching on,niftyphrasal
+silt up,niftyphrasal
+silts up,niftyphrasal
+silted up,niftyphrasal
+silting up,niftyphrasal
+sold as,prep
+sell as,prep
+selling as,prep
+sells as,prep
+nail in,goodphrasal
+nails in,goodphrasal
+nailed in,goodphrasal
+nailing in,goodphrasal
+stroll by,goodphrasal
+strolls by,goodphrasal
+strolling by,goodphrasal
+strolled by,goodphrasal
+stroll in,goodphrasal
+strolls in,goodphrasal
+strolling in,goodphrasal
+strolled in,goodphrasal
+yell to,prep
+yells to,prep
+yelling to,prep
+yelled to,prep
+peer at,prep
+peers at,prep
+peered at,prep
+peering at,prep
+snort at,prep
+snorts at,prep
+snorting at,prep
+snorted at,prep
+poke at,goodphrasal
+pokes at,goodphrasal
+poking at,goodphrasal
+poked at,goodphrasal
+snarl at,prep
+snarls at,prep
+snarling at,prep
+snarled at,prep
+honk at,prep
+honks at,prep
+honked at,prep
+honking at,prep
+bang away at,prep
+bangs away at,prep
+banged away at,prep
+banging away at,prep
+laugh at,prep
+laughs at,prep
+laughing at,prep
+laughed at,prep
+plug away at,prep
+plugs away at,prep
+plugging away at,prep
+plugged away at,prep
+hint at,goodphrasal
+hints at,goodphrasal
+hinted at,goodphrasal
+hinting at,goodphrasal
+wink at,niftyphrasal
+winks at,niftyphrasal
+winked at,niftyphrasal
+winking at,niftyphrasal
+bat in,goodphrasal
+bats in,goodphrasal
+batted in,goodphrasal
+batting in,goodphrasal
+fly open,goodphrasal
+flies open,goodphrasal
+flew open,goodphrasal
+flying open,goodphrasal
+take aim at,prep
+takes aim at,prep
+took aim at,prep
+taking aim at,prep
+assist on,prep
+assists on,prep
+assisting on,prep
+assisted on,prep
+attend on,goodphrasal
+attends on,goodphrasal
+attended on,goodphrasal
+attending on,goodphrasal
+troop in,niftyphrasal
+troops in,niftyphrasal
+trooped in,niftyphrasal
+trooping in,niftyphrasal
+tear at,niftyphrasal
+tears at,niftyphrasal
+tore at,niftyphrasal
+tearing at,niftyphrasal
+cop to,niftyphrasal
+cops to,niftyphrasal
+copped to,niftyphrasal
+copping to,niftyphrasal
+throw to,prep
+throws to,prep
+throwing to,prep
+threw to,prep
+dine at,prep
+dined at,prep
+dining at,prep
+dines at,prep
+pried up,prep
+pries up,prep
+pry up,prep
+prying up,prep
+live to,goodphrasal
+lives to,goodphrasal
+lived to,goodphrasal
+living to,goodphrasal
+reel out,niftyphrasal
+reels out,niftyphrasal
+reeled out,niftyphrasal
+reeling out,niftyphrasal
+stoop to,niftyphrasal
+stoops to,niftyphrasal
+stooping to,niftyphrasal
+stooped to,niftyphrasal
+gape at,prep
+gapes at,prep
+gaped at,prep
+gaping at,prep
+gazed at,prep
+gazing at,prep
+gaze at,prep
+gazes at,prep
+tire of,goodphrasal
+tired of,goodphrasal
+tiring of,goodphrasal
+tires of,goodphrasal
+bead up,prep
+beads up,prep
+beading up,prep
+beaded up,prep
+pan in on,prep
+pans in on,prep
+panned in on,prep
+panning in on,prep
+sat in on,goodphrasal
+sit in on,goodphrasal
+sits in on,goodphrasal
+sitting in on,goodphrasal
+reads on,goodphrasal
+read on,goodphrasal
+reading on,goodphrasal
+ran out on,niftyphrasal
+run out on,niftyphrasal
+runs out on,niftyphrasal
+running out on,niftyphrasal
+slap on,goodphrasal
+slapped on,goodphrasal
+slapping on,goodphrasal
+slaps on,goodphrasal
+slams on,goodphrasal
+slam on,goodphrasal
+slamming on,goodphrasal
+slammed on,goodphrasal
+stamp on,prep
+stamps on,prep
+stamped on,prep
+stamping on,prep
+clamp on,prep
+clamps on,prep
+clamped on,prep
+clamping on,prep
+sop up,goodphrasal
+sops up,goodphrasal
+sopped up,goodphrasal
+sopping up,goodphrasal
+nosh on,prep
+noshes on,prep
+noshed on,prep
+noshing on,prep
+clap to,niftyphrasal
+claps to,niftyphrasal
+clapping to,niftyphrasal
+clapped to,niftyphrasal
+zooms in on,prep
+zoom in on,prep
+zoomed in on,prep
+zooming in on,prep
+top out at,prep
+tops out at,prep
+topped out at,prep
+topping out at,prep
+drop in on,prep
+drops in on,prep
+dropped in on,prep
+dropping in on,prep
+tell on,goodphrasal
+tells on,goodphrasal
+telling on,goodphrasal
+told on,goodphrasal
+bets on,goodphrasal
+bet on,goodphrasal
+betting on,goodphrasal
+yen for,prep
+yens for,prep
+yenned for,prep
+yenning for,prep
+donate to,prep
+donates to,prep
+donated to,prep
+donating to,prep
+expose to,niftyphrasal
+exposes to,niftyphrasal
+exposed to,niftyphrasal
+exposing to,niftyphrasal
+matter to,prep
+matters to,prep
+mattered to,prep
+mattering to,prep
+legs it,prep
+legged it,prep
+leg it,good,prep
+legging it,prep
+bit on,nifty,prep
+bite on,prep
+bites on,prep
+biting on,prep
+etch in,prep
+etches in,prep
+etching in,prep
+etched in,prep
+bid on,goodphrasal
+bids on,goodphrasal
+bidding on,goodphrasal
+drew into,niftyphrasal
+draw into,niftyphrasal
+draws into,niftyphrasal
+drawing into,niftyphrasal
+said ok to,prep
+says ok to,prep
+say ok to,prep
+saying ok to,prep
+shout at,prep
+shouts at,prep
+shouting at,prep
+shouted at,prep
+store in,goodphrasal
+stores in,goodphrasal
+stored in,goodphrasal
+storing in,goodphrasal
+bow to,prep
+bows to,prep
+bowing to,prep
+bowed to,prep
+egg on,prep
+eggs on,prep
+egged on,prep
+egging on,prep
+hold onto,prep
+held onto,prep
+holding onto,prep
+holds onto,prep
+held to,goodphrasal
+hold to,niftyalmost,goodphrasal
+holding to,goodphrasal
+holds to,goodphrasal
+tow in,niftyphrasal
+towed in,niftyphrasal
+towing in,niftyphrasal
+tows in,niftyphrasal
+do a deal,greenpaint
+did a deal,greenpaint
+doing a deal,greenpaint
+did a tour,greenpaint
+do a tour,greenpaint
+doing a tour,greenpaint
+tape up,goodphrasal
+tapes up,goodphrasal
+taping up,goodphrasal
+taped up,goodphrasal
+tell to,prep
+tells to,prep
+telling to,prep
+told to,prep
+fell to,niftyphrasal
+falls to,niftyphrasal
+falling to,niftyphrasal
+fall to,niftyphrasal
+took up,goodphrasal
+take up,goodphrasal
+takes up,goodphrasal
+taking up,goodphrasal
+take in,goodphrasal
+took in,goodphrasal
+taking in,goodphrasal
+takes in,goodphrasal
+tune in,goodphrasal
+tunes in,goodphrasal
+tuned in,goodphrasal
+tuning in,goodphrasal
+tune up,good,goodphrasal
+tunes up,goodphrasal
+tuning up,goodphrasal
+tuned up,goodphrasal
+take it,goodalmost,niftyphrasal
+takes it,niftyphrasal
+took it,niftyphrasal
+taking it,niftyphrasal
+stay on,niftyalmost,goodphrasal
+stays on,goodphrasal
+stayed on,goodphrasal
+staying on,goodphrasal
+remark on,prep
+remarks on,prep
+remarked on,prep
+remarking on,prep
+hold on,goodalmost,goodphrasal
+held on,goodphrasal
+holds on,goodphrasal
+holding on,goodphrasal
+fell on,niftyphrasal
+falls on,niftyphrasal
+falling on,niftyphrasal
+fall on,goodname,niftyphrasal
+pick on,goodphrasal
+picks on,goodphrasal
+picked on,goodphrasal
+picking on,goodphrasal
+truing up,prep
+true up,prep
+trues up,prep
+trued up,prep
+dine in,niftyphrasal
+dining in,niftyphrasal
+dined in,niftyphrasal
+dines in,niftyphrasal
+dine on,prep
+dines on,prep
+dined on,prep
+dining on,prep
+take on,goodphrasal
+takes on,goodphrasal
+took on,goodphrasal
+taking on,goodphrasal
+abide by,prep
+abides by,prep
+abiding by,prep
+abided by,prep
+dote on,prep
+doting on,prep
+doted on,prep
+dotes on,prep
+open up to,prep
+opens up to,prep
+opened up to,prep
+opening up to,prep
+creep into,prep
+creeps into,prep
+crept into,prep
+creeping into,prep
+cage in,prep
+cages in,prep
+caged in,prep
+caging in,prep
+bite into,prep
+bites into,prep
+bit into,prep
+biting into,prep
+pull in,goodphrasal
+pulls in,goodphrasal
+pulled in,goodphrasal
+pulling in,goodphrasal
+bore in on,prep
+bores in on,prep
+boring in on,prep
+bored in on,prep
+bust in on,prep
+busts in on,prep
+busting in on,prep
+busted in on,prep
+deal in,niftyname,goodphrasal
+deals in,goodphrasal
+dealt in,goodphrasal
+dealing in on,goodphrasal
+tie in,goodalmost,goodphrasal
+tie ins,goodalmost
+ties in,goodphrasal
+tied in,goodphrasal
+tying in,goodphrasal
+take to,goodphrasal
+takes to,goodphrasal
+took to,goodphrasal
+taking to,goodphrasal
+pose as,niftyphrasal
+poses as,niftyphrasal
+posed as,niftyphrasal
+posing as,niftyphrasal
+cram in,prep
+crams in,prep
+crammed in,prep
+cramming in,prep
+draw on,goodphrasal
+draws on,goodphrasal
+drew on,goodphrasal
+drawing on,goodphrasal
+grow on,goodphrasal
+grows on,goodphrasal
+grew on,goodphrasal
+growing on,goodphrasal
+plead to,niftyphrasal
+pleads to,niftyphrasal
+pled to,niftyphrasal
+pleading to,niftyphrasal
+pray to,prep
+prays to,prep
+praying to,prep
+prayed to,prep
+rig up,goodphrasal
+rigs up,goodphrasal
+rigging up,goodphrasal
+rigged up,goodphrasal
+color in,goodphrasal
+colors in,goodphrasal
+coloring in,goodphrasal
+colored in,goodphrasal
+bear on,goodphrasal
+bears on,goodphrasal
+bearing on,goodphrasal
+bore on,goodphrasal
+beat on,finename,prep
+beats on,prep
+beating on,prep
+get onto,goodphrasal
+gets onto,goodphrasal
+got onto,goodphrasal
+getting onto,goodphrasal
+open on,prep
+opens on,prep
+opened on,prep
+opening on,prep
+cott onto,niftyphrasal
+cottons to,niftyphrasal
+cottoned to,niftyphrasal
+cottoning to,niftyphrasal
+cut into,prep
+cuts into,prep
+cutting into,prep
+act out,goodphrasal
+acts out,goodphrasal
+acted out,goodphrasal
+acting out,goodphrasal
+hang onto,prep
+hangs onto,prep
+hung onto,prep
+hanging onto,prep
+tag out,goodphrasal
+tags out,goodphrasal
+tagged out,goodphrasal
+tagging out,goodphrasal
+tag up,goodphrasal
+tags up,goodphrasal
+tagged up,goodphrasal
+tagging up,goodphrasal
+logs on,goodphrasal
+logging on,goodphrasal
+log on,goodphrasal
+logged on,goodphrasal
+leave in,goodphrasal
+left in,goodphrasal
+leaves in,goodphrasal
+leaving in,goodphrasal
+lay on,goodphrasal
+lays on,goodphrasal
+laid on,goodphrasal
+laying on,goodphrasal
+dive into,goodphrasal
+dives into,goodphrasal
+dove into,goodphrasal
+diving into,goodphrasal
+let into,goodphrasal
+lets into,goodphrasal
+letting into,goodphrasal
+hang in,fitb,niftyphrasal
+hung in,niftyphrasal
+hangs in,niftyphrasal
+hanged in,niftyphrasal
+engage in,prep
+engages in,prep
+engaging in,prep
+engaged in,prep
+want to,goodphrasal
+wants to,goodphrasal
+wanted to,goodphrasal
+wanting to,goodphrasal
+pan in,goodphrasal
+pans in,goodphrasal
+panned in,goodphrasal
+panning in,goodphrasal
+rub on,niftyphrasal
+rubs on,niftyphrasal
+rubbed on,niftyphrasal
+rubbing on,niftyphrasal
+horn in,goodphrasal
+horns in,goodphrasal
+horned in,goodphrasal
+horning in,goodphrasal
+bag it,goodphrasal
+bags it,goodphrasal
+bagged it,goodphrasal
+bagging it,goodphrasal
+dog it,goodphrasal
+dogs it,good,goodphrasal
+dogging it,goodphrasal
+dogged it,goodphrasal
+tug on,prep
+tugs on,prep
+tugged on,prep
+tugging on,prep
+tag on,niftyphrasal
+tags on,niftyphrasal
+tagging on,niftyphrasal
+tagged on,niftyphrasal
+sink in,goodalmost,goodphrasal
+sinks in,goodphrasal
+sunk in,goodphrasal
+sinking in,goodphrasal
+sank in,goodphrasal
+pluck at,prep
+plucks at,prep
+plucked at,prep
+plucking at,prep
+sing to,prep
+sings to,prep
+singing to,prep
+sung to,prep
+sang to,prep
+agree to,prep
+agrees to,prep
+agreed to,prep
+agreeing to,prep
+try to,prep
+tries to,prep
+trying to,prep
+tried to,prep
+fry up,goodphrasal
+fries up,goodphrasal
+frying up,goodphrasal
+fried up,goodphrasal
+buy up,goodphrasal
+buys up,goodphrasal
+buying up,goodphrasal
+bought up,goodphrasal
+key up,goodphrasal
+keys up,goodphrasal
+keyed up,goodphrasal
+keying up,goodphrasal
+gun for,goodphrasal
+guns for,goodphrasal
+gunned for,goodphrasal
+gunning for,goodphrasal
+want for,goodphrasal
+wanted for,goodphrasal
+wanting for,goodphrasal
+wants for,goodphrasal
+fitted for,niftyphrasal
+fits for,niftyphrasal
+fit for,niftyphrasal
+fitting for,niftyphrasal
+long for,goodphrasal
+longs for,goodphrasal
+longing for,goodphrasal
+longed for,goodphrasal
+bat for,prep
+bats for,prep
+batting for,prep
+batted for,prep
+hop on,niftyalmost,niftyphrasal
+hops on,niftyphrasal
+hopped on,niftyphrasal
+hopping on,niftyphrasal
+click on,prep
+clicks on,prep
+clicking on,prep
+clicked on,prep
+exile from,prep
+exiles from,prep
+exiling from,prep
+exiled from,prep
+foist on,prep
+foists on,prep
+foisted on,prep
+foisting on,prep
+act for,niftyphrasal
+acts for,niftyphrasal
+acted for,niftyphrasal
+acting for,niftyphrasal
+opt for,prep
+opts for,prep
+opting for,prep
+opted for,prep
+hanker for,prep
+hankers for,prep
+hankering for,prep
+hankered for,prep
+vote for,prep
+votes for,prep
+voting for,prep
+voted for,prep
+gain upon,prep
+gains upon,prep
+gained upon,prep
+gaining upon,prep
+foist upon,prep
+foists upon,prep
+foisted upon,prep
+foisting upon,prep
+write on,goodphrasal
+writes on,goodphrasal
+writing on,goodphrasal
+written on,goodphrasal
+pine for,prep
+pines for,prep
+pining for,prep
+pined for,prep
+tie off,goodphrasal
+ties off,goodphrasal
+tying off,goodphrasal
+tied off,goodphrasal
+roar in,niftyphrasal
+roars in,niftyphrasal
+roared in,niftyphrasal
+roaring in,niftyphrasal
+buy it,goodphrasal
+buys it,goodphrasal
+bought it,goodphrasal
+buying it,goodphrasal
+intend to,prep
+intends to,prep
+intended to,prep
+intending to,prep
+deny to,prep
+denies to,prep
+denying to,prep
+denied to,prep
+extend to,prep
+extends to,prep
+extended to,prep
+extending to,prep
+runs up a tab,greenpaint
+run up a tab,greenpaint
+ran up a tab,greenpaint
+running up a tab,greenpaint
+sit in for,prep
+sits in for,prep
+sitting in for,prep
+sat in for,prep
+put in for,prep
+puts in for,prep
+putting in for,prep
+get down,goodalmost,goodphrasal
+gets down,goodalmost,goodphrasal
+got down,goodalmost,goodphrasal
+gotten down,goodphrasal
+sits at home,greenpaint
+sat at home,greenpaint
+sitting a thome,greenpaint
+sit at home,greenpaint
+pencil in,goodphrasal
+pencils in,goodphrasal
+penciled in,goodphrasal
+penciling in,goodphrasal
+get word of,prep
+gets word of,prep
+getting word of,prep
+got word of,prep
+tail off,niftyphrasal
+tails off,niftyphrasal
+tailed off,niftyphrasal
+tailing off,niftyphrasal
+hang on,goodalmost,goodphrasal
+hung on,goodphrasal
+hangs on,goodphrasal
+hanging on,goodphrasal
+grew in,goodphrasal
+grows in,goodphrasal
+grow in,goodphrasal
+growing in,goodphrasal
+blow on,goodphrasal
+blows on,goodphrasal
+blowing on,goodphrasal
+blew on,goodphrasal
+prey on,goodphrasal
+preys on,goodphrasal
+preying on,goodphrasal
+preyed on,goodphrasal
+chew on,niftyphrasal
+chews on,niftyphrasal
+chewing on,niftyphrasal
+chewed on,niftyphrasal
+tear open,goodphrasal
+tears open,goodphrasal
+tearing open,goodphrasal
+tore open,goodphrasal
+torn open,goodphrasal
+dab on,niftyphrasal
+dabs on,niftyphrasal
+dabbing on,niftyphrasal
+dabbed on,niftyphrasal
+leave a tip,greenpaint
+left a tip,greenpaint
+leaves a tip,greenpaint
+leaving at ip,greenpaint
+smear on,prep
+smears on,prep
+smeared on,prep
+smearing on,prep
+swear at,prep
+swears at,prep
+swearing at,prep
+swore at,prep
+pop on,goodphrasal
+pops on,goodphrasal
+popped on,goodphrasal
+popping on,goodphrasal
+tap on,prep
+taps on,prep
+tapped on,prep
+tapping on,prep
+sweat it,goodphrasal
+sweats it,goodphrasal
+sweating it,goodphrasal
+sign in,goodalmost,goodphrasal
+signs in,goodphrasal
+signed in,goodphrasal
+signing in,goodphrasal
+snipe at,goodphrasal
+snipes at,goodphrasal
+sniped at,goodphrasal
+sniping at,goodphrasal
+tattle on,prep
+tattles on,prep
+tattled on,prep
+tattling on,prep
+stick to,niftyphrasal
+sticks to,niftyphrasal
+sticking to,niftyphrasal
+stuck to,niftyphrasal
+do ok,greenpaint
+does ok,greenpaint
+did ok,greenpaint
+doing ok,greenpaint
+sees it,goodphrasal
+see it,goodphrasal
+saw it,goodphrasal
+seeing it,goodphrasal
+warm to,niftyphrasal
+warms to,niftyphrasal
+warmed to,niftyphrasal
+warming to,niftyphrasal
+root on,prep
+roots on,prep
+rooting on,prep
+rooted on,prep
+pop in,goodphrasal
+pops in,goodphrasal
+popped in,goodphrasal
+popping in,goodphrasal
+point to,prep
+points to,prep
+pointed to,prep
+pointing to,prep
+sail to,prep
+sails to,prep
+sailed to,prep
+sailing to,prep
+mist up,prep
+mists up,prep
+misted up,prep
+misting up,prep
+peek at,prep
+peeks at,prep
+peeking at,prep
+peeked at,prep
+view as,prep
+views as,prep
+viewed as,prep
+viewing as,prep
+read to,prep
+reads to,prep
+reading to,prep
+use up,goodphrasal
+uses up,goodphrasal
+used up,goodphrasal
+using up,goodphrasal
+say hi to,greenpaint
+says hi to,greenpaint
+said hi to,greenpaint
+saying hi to,greenpaint
+turn onto,prep
+turns onto,prep
+turned onto,prep
+turning onto,prep
+gasp at,prep
+gasps at,prep
+gasping at,prep
+gasped at,prep
+get fat,greenpaint
+got fat,greenpaint
+gets fat,greenpaint
+getting fat,greenpaint
+bask in,goodname,prep
+basks in,prep
+basked in,prep
+basking in,prep
+sell to,prep
+sells to,prep
+selling to,prep
+sold to,prep
+pack in,prep
+packs in,prep
+packed in,prep
+packing in,prep
+back in,prep
+backs in,prep
+backed in,prep
+backing in,prep
+bank in,niftyphrasal
+banks in,niftyphrasal
+banked in,niftyphrasal
+banking in,niftyphrasal
+cave in,niftyalmost,goodphrasal
+caves in,goodphrasal
+caved in,goodphrasal
+caving in,goodphrasal
+come in,goodalmost,goodphrasal
+came in,goodphrasal
+comes in,goodphrasal
+coming in,goodphrasal
+riff on,prep
+riffs on,prep
+riffing on,prep
+riffed on,prep
+nag at,prep
+nags at,prep
+nagging at,prep
+nagged at,prep
+call to,prep
+calls to,prep
+calling to,prep
+called to,prep
+talk to,prep
+talks to,prep
+talked to,prep
+talking to,prep
+fall ill,goodphrasal
+falls ill,goodphrasal
+fell ill,goodphrasal
+falling ill,goodphrasal
+talk on,prep
+talks on,prep
+talking on,prep
+talked on,prep
+walk on,goodalmost,prep
+walks on,prep
+walked on,prep
+walking on,prep
+call on,goodphrasal
+calls on,goodphrasal
+called on,goodphrasal
+calling on,goodphrasal
+object to,prep
+objects to,prep
+objected to,prep
+objecting to,prep
+talk at,prep
+talks at,prep
+talked at,prep
+talking at,prep
+came at,goodphrasal
+comes at,goodphrasal
+coming at,goodphrasal
+come at,goodphrasal
+deal to,prep
+deals to,prep
+dealt to,prep
+dealing to,prep
+slip in,goodphrasal
+slips in,goodphrasal
+slipped in,goodphrasal
+slipping in,goodphrasal
+trace to,prep
+traces to,prep
+traced to,prep
+tracing to,prep
+edge in,niftyphrasal
+edges in,niftyphrasal
+edged in,niftyphrasal
+edging in,niftyphrasal
+even up,niftyphrasal
+evens up,niftyphrasal
+evened up,niftyphrasal
+evening up,niftyphrasal
+urge on,niftyphrasal
+urges on,niftyphrasal
+urged on,niftyphrasal
+urging on,niftyphrasal
+wear on,goodphrasal
+wears on,goodphrasal
+wore on,goodphrasal
+wearing on,goodphrasal
+see about,niftyphrasal
+sees about,niftyphrasal
+seen about,niftyphrasal
+seeing about,niftyphrasal
+saw about,niftyphrasal
+owe a debt,greenpaint
+owes a debt,greenpaint
+owed a debt,greenpaint
+owing a debt,greenpaint
+lie about,prep
+lies about,prep
+lied about,prep
+lying about,prep
+see past,goodphrasal
+sees past,goodphrasal
+seeing past,goodphrasal
+saw past,goodphrasal
+do a set,greenpaint
+does a set,greenpaint
+did a set,greenpaint
+doing a set,greenpaint
+run loose,goodphrasal
+runs loose,goodphrasal
+running loose,goodphrasal
+ran loose,goodphrasal
+flee to,prep
+flees to,prep
+fled to,prep
+fleeing to,prep
+add on,goodalmost,prep
+adds on,prep
+added on,prep
+adding on,prep
+dawn on,goodphrasal
+dawns on,goodphrasal
+dawned on,goodphrasal
+dawning on,goodphrasal
+swore to,niftyphrasal
+swear to,niftyphrasal
+swears to,niftyphrasal
+swearing to,niftyphrasal
+tell of,prep
+tells of,prep
+telling of,prep
+told of,prep
+harp on,goodphrasal
+harps on,goodphrasal
+harped on,goodphrasal
+harping on,goodphrasal
+came on,niftyphrasal
+come on,goodalmost,niftyphrasal
+comes on,niftyphrasal
+coming on,niftyphrasal
+say so,goodalmost,prep
+says so,prep
+saying so,prep
+said so,prep
+yank on,prep
+yanks on,prep
+yanked on,prep
+yanking on,prep
+rag on,goodphrasal
+rags on,goodphrasal
+ragged on,goodphrasal
+ragging on,goodphrasal
+tend to be,prep
+tends to be,prep
+tended to be,prep
+tending to be,prep
+open in on,prep
+opens in on,prep
+opened in on,prep
+opening in on,prep
+turn on,goodalmost,goodphrasal
+turns on,goodphrasal
+turned on,goodphrasal
+turning on,goodphrasal
+opt out of,prep
+opts out of,prep
+opted out of,prep
+opting out of,prep
+open a tab,greenpaint
+opens a tab,greenpaint
+opened a tab,greenpaint
+opening a tab,greenpaint
+scoff at,prep
+scoffs at,prep
+scoffed at,prep
+scoffing at,prep
+jeer at,prep
+jeers at,prep
+jeered at,prep
+jeering at,prep
+cake on,prep
+cakes on,prep
+caked on,prep
+caking on,prep
+land on,finename,goodphrasal
+lands on,goodphrasal
+landed on,goodphrasal
+landing on,goodphrasal
+plan on,prep
+plans on,prep
+planning on,prep
+planned on,prep
+has a kid,greenpaint
+had a kid,greenpaint
+have a kid,greenpaint
+having a kid,greenpaint
+leave to,goodphrasal
+leaves to,goodphrasal
+left to,goodphrasal
+leaving to,goodphrasal
+heap on,prep
+heaps on,prep
+heaped on,prep
+heaping on,prep
+die out,goodphrasal
+dies out,goodphrasal
+died out,goodphrasal
+dying out,goodphrasal
+hop to,goodphrasal
+hops to,goodphrasal
+hopped to,goodphrasal
+hopping to,goodphrasal
+hit up,goodphrasal
+hits up,goodphrasal
+hitting up,goodphrasal
+keep to,goodphrasal
+keeps to,goodphrasal
+kept to,goodphrasal
+keeping to,goodphrasal
+adapt to,prep
+adapts to,prep
+adapted to,prep
+adapting to,prep
+own up to,prep
+owns up to,prep
+owning up to,prep
+owned up to,prep
+dry up,goodphrasal
+dries up,goodphrasal
+dried up,goodphrasal
+drying up,goodphrasal
+set fire to,prep
+sets fire to,prep
+setting fire to,prep
+cut a tooth,greenpaint
+cuts a tooth,greenpaint
+cutting a tooth,greenpaint
+lay in,niftyphrasal
+lays in,niftyphrasal
+laid in,niftyphrasal
+laying in,niftyphrasal
+set out for,prep
+sets out for,prep
+setting out for,prep
+screen for,prep
+screens for,prep
+screening for,prep
+screened for,prep
+seek to,prep
+seeks to,prep
+sought to,prep
+seeking to,prep
+suck in,goodphrasal
+sucks in,goodphrasal
+sucked in,goodphrasal
+sucking in,goodphrasal
+plead for,prep
+pleads for,prep
+pled for,prep
+pleading for,prep
+has out,goodphrasal
+had out,goodphrasal
+have out,goodphrasal
+having out,goodphrasal
+whip in,prep
+whips in,prep
+whipped in,prep
+whipping in,prep
+lure on,prep
+lures on,prep
+lured on,prep
+luring on,prep
+can it,goodalmost,niftyphrasal
+cans it,niftyphrasal
+canned it,niftyphrasal
+canning it,niftyphrasal
+claw at,prep
+claws at,prep
+clawed at,prep
+clawing at,prep
+log onto,prep
+logs onto,prep
+logged onto,prep
+logging onto,prep
+do a jig,greenpaint
+does a jig,greenpaint
+did a jig,greenpaint
+doing a jig,greenpaint
+snap on,niftyalmost,niftyphrasal
+snaps on,niftyphrasal
+snapped on,niftyphrasal
+snapping on,niftyphrasal
+type in,niftyphrasal
+types in,niftyphrasal
+typed in,niftyphrasal
+typing in,niftyphrasal
+steal on,archaic,prep
+steals on,archaic,prep
+stole on,archaic,prep
+stealing on,archaic,prep
+ice it,niftyphrasal
+iced it,niftyphrasal
+icing it,niftyphrasal
+ices it,niftyphrasal
+atone for,prep
+atones for,prep
+atoned for,prep
+atoning for,prep
+race in,prep
+races in,prep
+raced in,prep
+racing in,prep
+give it,longpartial
+gave it,longpartial
+gives it,longpartial
+giving it,longpartial
+apprised of,prep
+apprise of,prep
+apprising of,prep
+apprises of,prep
+cry out to,prep
+cries out to,prep
+cried out to,prep
+crying out to,prep
+win an oscar,greenpaint
+wins an oscar,greenpaint
+won an oscar,greenpaint
+winning an oscar,greenpaint
+defer to,prep
+defers to,prep
+deferred to,prep
+deferring to,prep
+fly up,prep
+flies up,prep
+flew up,prep
+flying up,prep
+run into,niftyphrasal
+runs into,niftyphrasal
+ran into,niftyphrasal
+running into,niftyphrasal
+hone in,goodphrasal
+hones in,goodphrasal
+honing in,goodphrasal
+honed in,goodphrasal
+has a nap,greenpaint
+have a nap,greenpaint
+had a nap,greenpaint
+having a nap,greenpaint
+have a nip,greenpaint
+has a nip,greenpaint
+had a nip,greenpaint
+having a nip,greenpaint
+enter in,prep
+enters in,prep
+entered in,prep
+entering in,prep
+knead in,niftyphrasal
+kneads in,niftyphrasal
+kneaded in,niftyphrasal
+kneading in,niftyphrasal
+bark at,prep
+barks at,prep
+barking at,prep
+barked at,prep
+sail by,prep
+sails by,prep
+sailed by,prep
+sailing by,prep
+refer to,niftyalmost,prep
+refers to,prep
+referred to,prep
+referring to,prep
+let go by,prep
+lets go by,prep
+letting go by,prep
+hire on,prep
+hires on,prep
+hired on,prep
+hiring on,prep
+stop up,goodphrasal
+stops up,goodphrasal
+stopped up,goodphrasal
+stopping up,goodphrasal
+point at,prep
+points at,prep
+pointed at,prep
+pointing at,prep
+aah at,prep
+aahs at,prep
+aahed at,prep
+aahing at,prep
+ooh at,prep
+oohs at,prep
+oohed at,prep
+oohing at,prep
+seem to,prep
+seems to,prep
+seemed to,prep
+seeming to,prep
+dress as,prep
+dresses as,prep
+dressed as,prep
+dressing as,prep
+leap in,niftyfitb,goodphrasal
+leaps in,goodphrasal
+leapt in,goodphrasal
+leaping in,goodphrasal
+rule on,goodphrasal
+rules on,goodphrasal
+ruled on,goodphrasal
+ruling on,goodphrasal
+nest in,prep
+nests in,prep
+nested in,prep
+nesting in,prep
+rest on,finename,niftyphrasal
+rests on,niftyphrasal
+rested on,niftyphrasal
+resting on,niftyphrasal
+roll on,niftyalmost,niftyphrasal
+rolls on,niftyphrasal
+rolled on,niftyphrasal
+rolling on,niftyphrasal
+haul in,goodphrasal
+hauls in,goodphrasal
+hauled in,goodphrasal
+hauling in,goodphrasal
+mark an x,greenpaint
+marks an x,greenpaint
+marked an x,greenpaint
+marking an x,greenpaint
+spring on,goodphrasal
+springs on,goodphrasal
+sprung on,goodphrasal
+springing on,goodphrasal
+leap up,prep
+leaps up,prep
+leapt up,prep
+leaping up,prep
+read a book,goodalmost
+reads a book,greenpaint
+reading a book,greenpaint
+sit for,niftyphrasal
+sits for,niftyphrasal
+sat for,niftyphrasal
+sitting for,niftyphrasal
+pull a uey,greenpaint
+pulls a uey,greenpaint
+pulled a uey,greenpaint
+pulling a uey,greenpaint
+arrive at,prep
+arrives at,prep
+arrived at,prep
+arriving at,prep
+fixate on,prep
+fixates on,prep
+fixated on,prep
+fixating on,prep
+end on,niftyphrasal
+ends on,niftyphrasal
+ended on,niftyphrasal
+ending on,niftyphrasal
+take a pic,greenpaint
+takes a pic,greenpaint
+took a pic,greenpaint
+taking a pic,greenpaint
+fire at,prep
+fires at,prep
+fired at,prep
+firing at,prep
+use in,prep
+uses in,prep
+used in,prep
+using in,prep
+take a trip,greenpaint
+takes a trip,greenpaint
+taking a trip,greenpaint
+took a trip,greenpaint
+feast on,prep
+feasts on,prep
+feasted on,prep
+feasting on,prep
+scream at,prep
+screams at,prep
+screamed at,prep
+screaming at,prep
+belong to,prep
+belongs to,prep
+belonged to,prep
+belonging to,prep
+let upon,goodphrasal
+lets upon,goodphrasal
+letting upon,goodphrasal
+set upon,goodphrasal
+sets upon,goodphrasal
+setting upon,goodphrasal
+seal a deal,greenpaint
+seals a deal,greenpaint
+sealed a deal,greenpaint
+sealing a deal,greenpaint
+box in,prep
+boxes in,prep
+boxed in,prep
+boxing in,prep
+ease by,prep
+eases by,prep
+easing by,prep
+eased by,prep
+blow up at,prep
+blows up at,prep
+blew up at,prep
+blowing up at,prep
+jump in,niftyalmost,goodphrasal
+jumps in,goodphrasal
+jumped in,goodphrasal
+jumping in,goodphrasal
+limp in,prep
+limps in,prep
+limped in,prep
+limping in,prep
+send on,niftyphrasal
+sends on,niftyphrasal
+sending on,niftyphrasal
+sent on,niftyphrasal
+enter on,niftyphrasal
+enters on,niftyphrasal
+entered on,niftyphrasal
+entering on,niftyphrasal
+focus on,niftyphrasal
+focuses on,niftyphrasal
+focused on,niftyphrasal
+focusing on,niftyphrasal
+face it,goodalmost,niftyphrasal
+faces it,niftyphrasal
+faced it,niftyphrasal
+facing it,niftyphrasal
+cage up,goodphrasal
+cages up,goodphrasal
+caged up,goodphrasal
+caging up,goodphrasal
+toss in,goodphrasal
+tosses in,goodphrasal
+tossed in,goodphrasal
+tossing in,goodphrasal
+sober up,goodphrasal
+sobers up,goodphrasal
+sobered up,goodphrasal
+sobering up,goodphrasal
+scoot in,prep
+scoots in,prep
+scooted in,prep
+scooting in,prep
+run a scam,greenpaint
+runs a scam,greenpaint
+ran a scam,greenpaint
+running a scam,greenpaint
+focus in,prep
+focuses in,prep
+focused in,prep
+focusing in,prep
+rid of,prep
+rids of,prep
+ridding of,prep
+end in,prep
+ends in,prep
+ended in,prep
+ending in,prep
+sew in,almost,prep
+sews in,prep
+sewed in,prep
+sewn in,prep
+say no,niftyalmost
+says no,niftyalmost
+said no,niftyalmost
+saying no,niftyalmost
+say no to,prep
+says no to,prep
+said no to,prep
+saying no to,prep
+pass a law,greenpaint
+passes a law,greenpaint
+passed a law,greenpaint
+passing a law,greenpaint
+has a lisp,greenpaint
+had a lisp,greenpaint
+having a lisp,greenpaint
+slit open,prep
+slits open,prep
+slitting open,prep
+face up,goodalmost,niftyphrasal
+faces up,niftyphrasal
+faced up,niftyphrasal
+facing up,niftyphrasal
+try a case,greenpaint
+tries a case,greenpaint
+tried a case,greenpaint
+trying a case,greenpaint
+fess up to,prep
+fesses up to,prep
+fessed up to,prep
+fesssing up to,prep
+mess up,goodalmost,goodphrasal
+messes up,goodphrasal
+messed up,goodphrasal
+messing up,goodphrasal
+rub in,finename,goodalmost
+rubs in,goodalmost
+rubbed in,goodalmost
+rubbing in,goodalmost
+race by,prep
+races by,prep
+raced by,prep
+racing by,prep
+cut in,goodphrasal
+cuts in,goodphrasal
+cutting in,goodphrasal
+hem in,goodphrasal
+hems in,goodphrasal
+hemmed in,goodphrasal
+hemming in,goodphrasal
+nose into,prep
+noses into,prep
+nosed into,prep
+nosing into,prep
+has a chat,greenpaint
+have a chat,greenpaint
+having a chat,greenpaint
+verge on,niftyphrasal
+verges on,niftyphrasal
+verged on,niftyphrasal
+verging on,niftyphrasal
+help on,prep
+helps on,prep
+helped on,prep
+helping on,prep
+zip in,prep
+zips in,prep
+zipped in,prep
+zipping in,prep
+jam in,prep
+jams in,prep
+jammed in,prep
+jamming in,prep
+run in,goodalmost,prep
+runs in,prep
+running in,prep
+ran in,prep
+score on,niftyphrasal
+scores on,niftyphrasal
+scored on,niftyphrasal
+scoring on,niftyphrasal
+try on,niftyphrasal
+tries on,niftyphrasal
+tried on,niftyphrasal
+trying on,niftyphrasal
+set atop,prep
+sets atop,prep
+setting atop,prep
+let in on,niftyphrasal
+lets in on,niftyphrasal
+letting in on,niftyphrasal
+come to,goodphrasal
+comes to,goodphrasal
+came to,goodphrasal
+coming to,goodphrasal
+excel in,prep
+excels in,prep
+excelled in,prep
+excelling in,prep
+lace up,niftyphrasal
+laces up,niftyphrasal
+laced up,niftyphrasal
+lacing up,niftyphrasal
+run it by,greenpaint
+runs it by,greenpaint
+runnin git by,greenpaint
+ran it by,greenpaint
+land at,prep
+lands at,prep
+landed at,prep
+landing at,prep
+sit near,prep
+sits near,prep
+sitting near,prep
+sat near,prep
+tune into,prep
+tunes into,prep
+tuned into,prep
+tuning into,prep
+fit into,prep
+fits into,prep
+fitting into,prep
+land in,prep
+lands in,prep
+landed in,prep
+landing in,prep
+wince at,prep
+winces at,prep
+winced at,prep
+wincing at,prep
+fence in,prep
+fences in,prep
+fenced in,prep
+fencing in,prep
+pile in,goodphrasal
+piles in,goodphrasal
+piled in,goodphrasal
+piling in,goodphrasal
+pipe up,goodphrasal
+pipes up,goodphrasal
+piped up,goodphrasal
+piping up,goodphrasal
+jump clear,greenpaint
+jumps clear,greenpaint
+jumped clear,greenpaint
+jumping clear,greenpaint
+get across,goodphrasal
+gets across,goodphrasal
+got across,goodphrasal
+getting across,goodphrasal
+save up for,prep
+saves up for,prep
+saved up for,prep
+saving up for,prep
+pass by,goodphrasal
+passes by,goodphrasal
+passed by,goodphrasal
+passing by,goodphrasal
+run a test,greenpaint
+runs a test,greenpaint
+running a test,greenpaint
+ran a test,greenpaint
+lust after,prep
+lusts after,prep
+lusting after,prep
+lusted after,prep
+chew at,prep
+chews at,prep
+chewed at,prep
+chewing at,prep
+beep at,prep
+beeps at,prep
+beeped at,prep
+beeping at,prep
+skate by,goodphrasal
+skates by,goodphrasal
+skated by,goodphrasal
+skating by,goodphrasal
+glare at,prep
+glares at,prep
+glaring at,prep
+glared at,prep
+stay at,niftyphrasal
+stays at,niftyphrasal
+stayed at,niftyphrasal
+staying at,niftyphrasal
+need asap,greenpaint
+needs asap,greenpaint
+needed asap,greenpaint
+needing asap,greenpaint
+sub out for,prep
+subs out for,prep
+subbed out for,prep
+subbing out for,prep
+come after,niftyphrasal
+comes after,niftyphrasal
+came after,niftyphrasal
+coming after,niftyphrasal
+come near,prep
+comes near,prep
+came near,prep
+coming near,prep
+chafe at,niftyphrasal
+chafes at,niftyphrasal
+chafed at,niftyphrasal
+chafing at,niftyphrasal
+sit out,goodphrasal
+sits out,goodphrasal
+sat out,goodphrasal
+sitting out,goodphrasal
+pile up,goodphrasal
+piles up,goodphrasal
+piled up,goodphrasal
+piling up,goodphrasal
+get a d,greenpaint
+gets a d,greenpaint
+getting a d,greenpaint
+got a d,greenpaint
+gag on,prep
+gags on,prep
+gagged on,prep
+gagging on,prep
+peg out,nifty
+pegs out,nifty
+pegged out,nifty
+pegging out,nifty
+pile on,goodphrasal
+piles on,goodphrasal
+piled on,goodphrasal
+piling on,goodphrasal
+swim away,prep
+swims away,prep
+swimming away,prep
+swam away,prep
+stand pat,goodphrasal
+stands pat,goodphrasal
+stood pat,goodphrasal
+standing pat,goodphrasal
+bestow on,prep
+bestows on,prep
+bestowed on,prep
+bestowing on,prep
+toil away at,prep
+toils away at,prep
+toiled away at,prep
+toiling away at,prep
+kowtow to,prep
+kowtows to,prep
+kowtowed to,prep
+kowtowing to,prep
+draw a gun on,greenpaint
+draws a gun on,greenpaint
+drawing a gun on,greenpaint
+drew a gun on,greenpaint
+face the rap,contrived
+faces the rap,contrived
+faced the rap,contrived
+facing the rap,contrived
+run long,greenpaint
+runs long,greenpaint
+running long,greenpaint
+ran long,greenpaint
+eke out a win,greenpaint
+ekes out a win,greenpaint
+eked out a win,greenpaint
+eking out a win,greenpaint
+shriek at,prep
+shrieks at,prep
+shrieked at,prep
+shrieking at,prep
+raise the volume,greenpaint
+raises the volume,greenpaint
+raised the volume,greenpaint
+raising the volume,greenpaint
+drive home a point,greenpaint
+drives hom e apoint,greenpaint
+drove home a point,greenpaint
+driving home a point,greenpaint
+see into,niftyphrasal
+sees into,niftyphrasal
+seeing into,niftyphrasal
+saw into,niftyphrasal
+wire money,greenpaint
+wires money,greenpaint
+wired money,greenpaint
+wiring money,greenpaint
+seat at,niftyphrasal
+seats at,niftyphrasal
+seated at,niftyphrasal
+inure to,niftyphrasal
+inures to,niftyphrasal
+inured to,niftyphrasal
+inuring to,niftyphrasal
+toady to,niftyphrasal
+toadies to,niftyphrasal
+toadied to,niftyphrasal
+toadying to,niftyphrasal
+stare into,prep
+stares into,prep
+stared into,prep
+staring into,prep
+has no shot,greenpaint
+have no shot,greenpaint
+had no shot,greenpaint
+having no shot,greenpaint
+sign up,goodphrasal
+signs up,goodphrasal
+signed up,goodphrasal
+signing up,goodphrasal
+hoot at,prep
+hoots at,prep
+hooted at,prep
+hooting at,prep
+sub in,goodphrasal
+subs in,goodphrasal
+subbed in,goodphrasal
+subbing in,goodphrasal
+fly in,prep
+flies in,prep
+flew in,prep
+flown in,prep
+flying in,prep
+blow in,goodphrasal
+blows in,goodphrasal
+blowing in,goodphrasal
+blown in,goodphrasal
+blew in,goodphrasal
+draw in,goodphrasal
+draws in,goodphrasal
+drawn in,goodphrasal
+drawing in,goodphrasal
+drew in,goodphrasal
+stab at,fitb,longpartial,prep
+stabs at,prep
+stabbed at,prep
+stabbing at,prep
+cue in,niftyphrasal
+cues in,niftyphrasal
+cued in,niftyphrasal
+cueing in,niftyphrasal
+seem so,niftyphrasal
+seems so,goodalmost,niftyphrasal
+seemed so,niftyphrasal
+seeming so,niftyphrasal
+play to,niftyphrasal
+plays to,niftyphrasal
+played to,niftyphrasal
+playing to,niftyphrasal
+teeter on,prep
+teeters on,prep
+teetered on,prep
+teetering on,prep
+edge up,niftyphrasal
+edges up,niftyphrasal
+edged up,niftyphrasal
+edging up,niftyphrasal
+lean in,niftyphrasal
+leans in,niftyphrasal
+leaned in,niftyphrasal
+leant in,niftyphrasal
+leaning in,niftyphrasal
+rise to,niftyphrasal
+rises to,niftyphrasal
+rising to,niftyphrasal
+risen to,niftyphrasal
+rose to,niftyphrasal
+doom to,prep
+dooms to,prep
+doomed to,prep
+dooming to,prep
+ride in,prep
+rides in,prep
+riding in,prep
+rode in,prep
+remain at,prep
+remains at,prep
+remained at,prep
+remaining at,prep
+ride on,prep
+rides on,prep
+riding on,prep
+rode on,prep
+target on,prep
+targets on,prep
+targeted on,prep
+targeting on,prep
+rake in,goodphrasal
+rakes in,goodphrasal
+raked in,goodphrasal
+raking in,goodphrasal
+lash out at,prep
+lashes out at,prep
+lashed out at,prep
+lashing out at,prep
+has a cameo,greenpaint
+had a cameo,greenpaint
+having a cameo,greenpaint
+get an a,greenpaint
+getting an a,greenpaint
+gets an a,greenpaint
+got an a,greenpaint
+do a duet,greenpaint
+does a duet,greenpaint
+did a duet,greenpaint
+doing a duet,greenpaint
+root for,niftyphrasal
+roots for,niftyphrasal
+rooted for,niftyphrasal
+rooting for,niftyphrasal
+ride bikes,greenpaint
+rides bikes,greenpaint
+riding bikes,greenpaint
+rode bikes,greenpaint
+ride waves,greenpaint
+rides waves,greenpaint
+riding waves,greenpaint
+rode waves,greenpaint
+impose on,niftyphrasal
+imposes on,niftyphrasal
+imposing on,niftyphrasal
+imposed on,niftyphrasal
+impinge on,niftyphrasal
+impinges on,niftyphrasal
+impinged on,niftyphrasal
+impinging on,niftyphrasal
+aspire to,prep
+aspires to,prep
+aspired to,prep
+aspiring to,prep
+turn it on,niftyalmost,niftyphrasal
+turns it on,niftyphrasal
+turned it on,niftyphrasal
+turning it on,niftyphrasal
+live at,prep
+lives at,prep
+living at,prep
+lived at,prep
+tell a lie,greenpaint
+tells a lie,greenpaint
+told a lie,greenpaint
+telling a lie,greenpaint
+levy a fine,greenpaint
+levies a fine,greenpaint
+levied a fine,greenpaint
+levying a fine,greenpaint
+fit well,greenpaint
+fits well,greenpaint
+fitting well,greenpaint
+mail away,prep
+mails away,prep
+mailed away,prep
+mailing away,prep
+take a taxi,greenpaint
+takes a taxi,greenpaint
+taking a taxi,greenpaint
+took a taxi,greenpaint
+fly a kite,greenpaint
+flies a kite,greenpaint
+flying a kite,greenpaint
+flew a kite,greenpaint
+teem with,niftyphrasal
+teems with,niftyphrasal
+teemed with,niftyphrasal
+teeming with,niftyphrasal
+yell at,prep
+yells at,prep
+yelled at,prep
+yelling at,prep
+live with,niftyphrasal
+lives with,niftyphrasal
+lived with,niftyphrasal
+living with,niftyphrasal
+key in,niftyphrasal
+keys in,niftyphrasal
+keyed in,niftyphrasal
+keying in,niftyphrasal
+meet with,niftyphrasal
+meets with,niftyphrasal
+meeting with,niftyphrasal
+met with,niftyphrasal
+has in,niftyphrasal
+have in,niftyphrasal
+having in,niftyphrasal
+had in,niftyphrasal
+feel it,goodphrasal
+feels it,goodphrasal
+feeling it,goodphrasal
+felt it,goodphrasal
+mean it,niftyphrasal
+means it,niftyphrasal
+meaning it,niftyphrasal
+meant it,niftyphrasal
+wall in,niftyphrasal
+walls in,niftyphrasal
+walled in,niftyphrasal
+walling in,niftyphrasal
+invite in,niftyphrasal
+invites in,niftyphrasal
+invited in,niftyphrasal
+inviting in,niftyphrasal
+unload on,niftyphrasal
+unloads on,niftyphrasal
+unloaded on,niftyphrasal
+unloading on,niftyphrasal
+slather on,niftyphrasal
+slathers on,niftyphrasal
+slathered on,niftyphrasal
+slathering on,niftyphrasal
+trip on,niftyphrasal
+trips on,niftyphrasal
+tripped on,niftyphrasal
+tripping on,niftyphrasal
+relate to,niftyphrasal
+relates to,niftyphrasal
+related to,niftyphrasal
+relating to,niftyphrasal
+ascribe to,prep
+ascribes to,prep
+ascribed to,prep
+ascribing to,prep
+get a raise,greenpaint
+gets a raise,greenpaint
+got a raise,greenpaint
+getting a raise,greenpaint
+confide in,prep
+confides in,prep
+confided in,prep
+confiding in,prep
+lose out to,prep
+loses out to,prep
+lost out to,prep
+losing out to,prep
+getado over,greenpaint
+getsado over,greenpaint
+gotado over,greenpaint
+gettingado over,greenpaint
+mosey on,prep
+moseys on,prep
+moseyed on,prep
+moseying on,prep
+dim out,niftyalmost
+dims out,niftyalmost
+dimmed out,niftyalmost
+dimming out,niftyalmost
+howl at,prep
+howls at,prep
+howlin gat,prep
+howled at,prep
+react to,prep
+reacts to,prep
+racted to,prep
+reacting to,prep
+hop in,goodalmost
+hops in,niftyalmost
+hopped in,niftyalmost
+hopping in,niftyalmost
+get in a rut,greenpaint
+gets in a rut,greenpaint
+got in a rut,greenpaint
+getting in a rut,greenpaint

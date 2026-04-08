@@ -1,0 +1,12 @@
+apositive,niftyalmost
+abpositive,niftyalmost
+bpositive,niftyalmost
+opositive,niftyalmost
+abneg,fineabbrev
+aneg,fineabbrev
+bneg,fineabbrev
+oneg,fine,fineabbrev
+abnegative,niftyalmost
+anegative,niftyalmost
+bnegative,niftyalmost
+onegative,niftyalmost
