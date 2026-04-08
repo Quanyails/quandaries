@@ -1,0 +1,13 @@
+inflect
+# NLP libraries: NLTK vs. Spacy vs. Stanza
+# - https://github.com/explosion/spaCy/issues/5750
+# - https://piptrends.com/compare/nltk-vs-spacy-vs-stanza
+# - https://redd.it/yle0wo/
+nltk
+numpy
+pandas
+pandas-stubs
+plotnine
+# String splitting libraries: symspellpy vs. Wordninja vs. WordSegment
+# - https://piptrends.com/compare/symspellpy-vs-wordninja-vs-wordsegment
+symspellpy==6.7.1  # 6.7.2 uses editdistpy, which requires extra effort to build on Windows

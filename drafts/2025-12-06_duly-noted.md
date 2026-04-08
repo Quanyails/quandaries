@@ -1,0 +1,543 @@
+# Duly Noted
+
+## Design notes
+
+- _ flat
+- _ natural
+- _ sharp
+
+A:
+
+- activ/a!
+- ad/a!
+- aid/a!
+- al/a!
+- albert/a?
+- alt/a!
+- am/a!
+- american/a
+- angelic/a
+- antarctic/a
+- any/a!
+- are/a!
+- att/a
+- attic/a!
+- august/a?
+- bam/a
+- barber/a!
+- be/a!
+- bell/a!
+- bet/a!
+- bo/a!
+- bob/a!
+- brit/a!
+- brittanic/a
+- canadian/a
+- cart/a!
+- chi/a!
+- chin/a!
+- coco/a!
+- cod/a!
+- com/a!
+- commoner/a!
+- cop/!
+- cost/a!
+- cub/a!
+- dad/a!
+- dat/data
+- dec/a!
+- doh/a
+- dram/a!
+- earth/a
+- edd/a!
+- els/a!
+- er/a!
+- esoteric/a
+- et/a!
+- faun/a!
+- fav/a!
+- fermat/a?!
+- florid/a!
+- for/a
+- gag/a!
+- gal/a!
+- generic/a
+- gig/a!
+- gil/a!
+- gin/a!
+- git/a
+- harmonic/a!
+- hell/a!
+- her/a!
+- hex/a
+- ide/a
+- ike/a!
+- inc/a!
+- indian/a!
+- jaw/a
+- lam/a
+- latin/a!
+- lav/a
+- lei/a!
+- lil/a!
+- lip/a!
+- lol/a!
+- lovey/a!
+- luchador/a
+- malay/a
+- malt/a!
+- mani/a!
+- may/a!
+- match/a!
+- maxim/a!
+- medi/a!
+- meg/a!
+- melodic/a?
+- mens/a!
+- met/a!
+- metallic/a!
+- mic/a!
+- missus/a!
+- moan/a!
+- moderner/a?
+- mom/a!
+- mon/a!
+- monster/a!
+- nan/a!
+- nap/a!
+- nas/a!
+- newer/a!
+- nin/a
+- opener/a?
+- orc/a!
+- organ/a!
+- panam/a
+- park/a!
+- past/a!
+- pe/a
+- person/a!
+- pet/a
+- pin/a!
+- pit/a!
+- play/a!
+- polk/a!
+- prim/a!
+- pup/a!
+- quant/a
+- radioer/a?
+- rip/a!
+- romani/a
+- sag/a!
+- sams/a!
+- sash/a!
+- senor/a
+- sept/a
+- she/a!
+- sheen/a
+- shiv/a!
+- si/a!
+- signor/a
+- sod/a!
+- somali/a
+- sony/a!
+- strat/a
+- sub/a!
+- tad/a!
+- tamp/a!
+- tap/a
+- tavern/a
+- theres/a!
+- these/a!
+- tin/a!
+- tong/a!
+- tony/a
+- tub/a!
+- urban/a
+- veg/a!
+- vest/a
+- vi/a!
+- wand/a!
+- who/a!
+- + single-letter additions
+
+B:
+
+- acer/b!
+- ada/b
+- aha/b!
+- ap/b
+- band/b!
+- bar/b!
+- blur/b!
+- bo/b!
+- boo/b!
+- car/b!
+- chu/b
+- co/b
+- com/b!
+- cur/b!
+- da/b!
+- do/b
+- fla/b
+- flu/b!
+- ga/b!
+- gar/b!
+- glo/b!
+- go/b!
+- gru/b
+- her/b!
+- iam/b
+- jam/b
+- jo/b!
+- kg/b!
+- kra/b
+- la/b!
+- lo/b!
+- mo/b!
+- na/b!
+- new/b!
+- ni/b!
+- nu/b!
+- or/b!
+- oral/b!
+- plum/b!
+- pro/b!
+- ru/b!
+- sat/b!
+- schwa/b!!
+- si/b!
+- slo/b!
+- sno/b
+- so/b!
+- stu/b!
+- super/b
+- ta/b!
+- tom/b!
+- us/b!
+- we/b!
+- wee/b!
+- + single-letter additions
+- + state abbreviation additions
+
+C:
+
+- ab/c!
+- ale/c!
+- am/c!
+- amnesia/c
+- anti/c!
+- aphrodisia/c
+- cd/c
+- chi/c!
+- code/c!
+- do/c!
+- egomania/c
+- epi/c
+- es/c!
+- et/c!
+- exe/c!
+- fran/c!
+- hemophilia/c
+- hi/c!
+- in/c!
+- insomnia/c
+- kleptomania/c
+- ma/c!
+- magi/c!
+- mani/c!
+- mania/c
+- mar/c!
+- medi/c!
+- megalomania/c
+- mi/c!
+- mimi/c!
+- mis/c!
+- monomania/c
+- napoleoni/c
+- nuclei/c
+- nymphomania/c
+- pa/c!
+- paranoia/c
+- parse/c!
+- pyromania/c
+- rhombi/c
+- ti/c!
+- toni/c!
+
+D:
+
+Regex: ^(.*[a-DF-Z])$ -> $1D
+
+- amen/d!
+- ami/d!
+- an/d!ba/d!
+- aro/d!
+- awar/d
+- ban/d!
+- bar/d!
+- bea/d!
+- bear/d!
+- ben/d!
+- bi/d!
+- bin/d!
+- blackbear/d!
+- bo/d!
+- boar/d!
+- bon/d!
+- bra/d!
+- bran/d!
+- c/d!
+- ca/d!
+- cani/d!
+- car/d!
+- cb/d
+- char/d!
+- ci/d
+- co/d!
+- collar/d!
+- costar/d
+- crow/d!
+- cur/d!
+- dea/d
+- deaden/d!
+- deepen/d!
+- dua/d!
+- en/d!
+- fa/d
+- feu/d
+- fin/d!
+- foo/d!
+- for/d!
+- frau/d!
+- fun/d!
+- ga/d!
+- gel/d
+- gemini/d
+- go/d!
+- goblin/d!
+- goo/d!
+- gran/d!
+- grin/d!
+- ha/d!
+- han/d!
+- hear/d
+- her/d!
+- hero/d!
+- hi/d!
+- hoar/d!
+- i/d!
+- imin/d!
+- imma/d!
+- in/d
+- inkin/d!
+- ipa/d!
+- ipo/d!
+- ki/d!
+- kin/d!
+- la/d!
+- lap/d!
+- lea/d!
+- lemon/d!
+- leoni/d!
+- letterbox/d
+- li/d!
+- lou/d!
+- luci/d!
+- m/d
+- ma/d!
+- mad/d
+- mai/d!
+- mea/d!
+- men/d!
+- mi/d
+- mil/d!
+- min/d!
+- mon/d
+- mona/d
+- moo/d!
+- mu/d
+- no/d!
+- nor/d!
+- nora/d!
+- oc/d!
+- octa/d
+- olympia/d
+- pen/d!
+- ph/d!
+- plea/d
+- ra/d!
+- ren/d!
+- retro/d!
+- rewin/dhoo/d!
+- righten/d!
+- san/d!
+- seawar/d
+- shar/d!
+- sharpen/d!
+- shorten/d!
+- shrew/d
+- si/d!
+- ski/d
+- so/d!
+- soba/d!
+- stan/d!
+- stu/d!
+- ta/d!
+- ten/d!
+- tetra/d
+- tighten/d!
+- togo/d
+- undergo/d!
+- us/d!
+- wa/d!
+- wan/d!
+- war/d!
+- weir/d!
+- win/d!
+- woo/d!
+- yar/d!
+
+E:
+
+- LOTS of silent E additions
+
+F:
+
+- al/f!
+- aloo/f!
+- awol/f!
+- bar/f
+- bee/f!
+- belie/f!
+- bestof/f!
+- borneo/borneof!
+- brie/f!
+- cal/f
+- che/f!
+- comeof/f!
+- deca/f!
+- fie/f
+- goo/f!
+- goof/f!
+- hal/f!
+- halfof/f!
+- hide/f!
+- hoo/f!
+- i/f!
+- jif/f
+- lea/f!
+- lei/f!
+- madeof/f!
+- mano/f!
+- mucho/f!
+- oneof/f!
+- poo/f!
+- pre/f
+- pro/f!
+- roo/f!
+- scar/f!
+- scaredof/f!
+- shea/f!
+- shel/f
+- stuf/f
+- tellof/f
+- wolf/f
+- woo/f!
+- wool/f!
+
+G:
+
+Regex: ^(.*[a-mo-z])$ -> $1G
+
+- ago/g!
+- ale/g!
+- bo/g!
+- bra/g!
+- co/g!
+- daw/g
+- do/g!
+- dre/g!
+- dru/g
+- er/g!
+- fla/g
+- flo/g!
+- fro/g!
+- ga/g!
+- gi/g!
+- gobi/g!
+- ha/g!
+- ho/g!
+- ms/g!
+- noms/g
+- om/g!
+- pi/g!
+- pro/g!
+- sno/g
+- ta/g
+- tri/g
+- wi/g!
+- zero/g!
+
+Theme options:
+
+Flat:
+
+- gon/e flat
+- li/e flat
+- ban gone flat (11)
+- chi lie flat (10)
+- dunkin gone flat (14)
+- jar gone flat (11)
+- jet lie flat (10)
+- hex a gone flat (11)
+- ma lie flat (9)
+- ore gone flat (11)
+- superbowl lie flat (16)
+
+Natural:
+
+- b/e natural
+- th/e natural
+- food we be natural (15)
+- no probe natural (14)
+- pay stu be natural (15) 
+- super be natural (14)
+
+Sharp:
+
+- car/d sharp
+- box car/d sharp (12)
+- cable car/d sharp (14)
+- clown car/d sharp (14)
+- compact car/d sharp (16)
+- family car/d sharp (15)
+- model car/d sharp (14)
+- police car/ds sharp (15)
+- race car/d sharp (13)
+- rent a car/d sharp! (14)
+- rental car/d sharp (15)
+- sports car/d sharp (15)
+- side car/d sharp (13)
+- street car/d sharp (15)
+- stunt car/d sharp (14)
+- toy car/d sharp (12)
+- zip car/d sharp (12)
+
+Revealer:
+
+- duly noted (9)
+- (end) on a high note? (11/14) (better for hidden theme, not addition)
+- grace note (9/10)
+- key signature? (12)
+- noteworthy addition (18/19)
+- see attached note (15)
+- set(ting) the tone (10/11/14)
+- side note? (8/9)
+- sticky notes (10/11)
+- strike a chord? (12)
+- tritone? (7)
+
+Resources used:
+
+- [Thursday, March 3, 2016 - NYT](https://www.crosserville.com/archive/puzzle/37420)
+- [Saturday, June 26, 2021 - WSG](https://www.crosserville.com/archive/puzzle/25323)

@@ -1,0 +1,54 @@
+good,50,0,good words otherwise not found in source wordlists
+goodname,49,0,names that are popular enough to use when I need the right letters
+goodabbrev,48,0,abbreviations that are notable
+goodalmost,48,0,terms that are not single words but are good
+goodforeign,47,0,well-known foreign terms
+tired,46,0,commonly-used crossword words
+goodaffix,46,0,well-known affixes
+nifty,45,0,not my first choice but makes for interesting vocabulary if inserted
+almost,45,0,terms that aren't strictly single words or expressions but aren't bad to see in a fill
+fineplural,45,0,plurals that aren't yucky but not splendid
+niftyabbrev,44,0,not my first choice abbreviations
+niftyforeign,44,0,not my first choice but common-enough foreign words
+niftyname,43,0,names that are flexible but not iconic
+fine,42,0,vocabulary that isn't exciting but isn't awful
+boring,41,0,words that make for smooth fill but are otherwise unexciting due to commonly-used letters
+fineabbrev,41,0,abbreviations okay as glue
+fineforeign,40,0,fine foreign terms
+affix,39,0,common prefixes and suffices
+finename,38,0,names that are known for something okay as glue
+vocab,35,0,obscure vocabulary
+partial,34,0,multiple unrelated words that must be clued in as a fill-in-the-blank
+dated,33,0,terms that have become unfamiliar due to time
+name,32,0,names used by a single well-known brands and location or multiple well-known people
+abbrev,25,0,uncommon abbreviations
+foreign,25,0,obscure foreign terms
+longpartial,25,0,multiple unrelated words that are too long to use
+retired,25,0,crosswordese
+natick,15,0,one-off and obscure names
+eh,15,1,technically valid vocabulary I'm not happy to see for unspecified reasons
+archaic,35,0,uncommon old words
+asset,60,0,sparkly fill options
+awkward,15,1,themes that are uncomfortable to put in a publication for all ages e.g. death or illness or nsfw or politics
+bad,0,1,non-words (usually nonsensical themers) that made it into the word list
+contrived,15,0,not-real terms
+contriveds,15,0,not-real plurals
+ding,30,0,terms that were explicitly asked to be edited by publications
+downer,30,0,terms that aren't fun enough for a crossword
+goodfitb,46,0,words that aren't bad but are limited in their cluing options
+fitb,43,0,words that aren't my first choice and are limited in their cluing options
+hmm,42,1,words that are questionable depending on the publication
+gimmicky,40,0,entries that refer to the qualities of words rather than words themselves
+greenpaint,30,0,colocations that don't form an actual term
+inferable,43,0,words that aren't really a thing but can be inferred
+indie,20,0,words that aren't quite acceptable for a mainstream publication
+medical,25,0,overly medical terms
+phrasal,45,0,phrasal verbs i.e. verbs where the inclusion of the preposition meaningfully changes the meaning
+playground,40,0,playground retort phrases (somewhat contrived + low cluing options)
+prep,42,0,less significant verb + preposition collocations
+profane,5,0,obscene words not appropriate for general crosswords
+roman,10,0,arbitrary roman numerals
+seq,20,0,arbitrary long sequences of repeated letters (> 3)
+tech,25,0,jargon and technical terms
+temp,50,0,temporary alterations for one-off puzzles
+var,10,0,variant spellings
