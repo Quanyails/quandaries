@@ -1,0 +1,59 @@
+good,50,0,good words otherwise not found in source wordlists
+goodname,49,0,names that are popular enough to use when I need the right letters
+goodabbrev,48,0,abbreviations that are ubiquitously known
+goodalmost,48,0,terms that are not single words but are good
+goodforeign,47,0,well-known foreign terms
+goodphrasal,48,0,verbs where the inclusion of the preposition meaningfully changes the meaning
+sound,47,0,onomatopoeia
+goodfitb,46,0,words that aren't bad but are limited in their cluing options
+tired,46,0,commonly-used crossword words
+goodaffix,45,0,well-known affixes
+goodroman,45,0,roman numerals that are low enough to not be contrived
+niftyalmost,44,0,not my first choice multi-words
+nifty,44,0,not my first choice but makes for interesting vocabulary if inserted
+niftyabbrev,39,0,not my first choice abbreviations
+niftyaffix,39,0,not my first choice affixes
+niftyphrasal,39,0,not my first choice phrasal verbs
+niftyfitb,39,0,not my first choice fill-in-the-blanks
+niftyname,38,0,names that are notable but not iconic
+niftyforeign,38,0,not my first choice but common-enough foreign words
+affix,37,0,gluey prefixes and suffixes
+almost,37,0,gluey multi-words
+boring,37,0,words that make for smooth fill but are otherwise unexciting due to commonly-used letters
+fineabbrev,37,0,gluey abbreviations
+fineplural,37,0,gluey plurals
+fineforeign,37,0,gluey foreign terms
+fitb,37,0,uncommon words limited in their cluing options
+prep,37,0,less significant verb + preposition collocations
+fine,36,0,vocabulary that isn't exciting but isn't awful
+finename,36,0,names that are known for something unexciting
+vocab,35,0,obscure vocabulary
+partial,34,0,multiple unrelated words that must be clued in as a fill-in-the-blank
+dated,33,0,terms that have become unfamiliar due to time
+name,32,0,names that are not known for anything
+abbrev,25,0,uncommon abbreviations
+foreign,25,0,obscure foreign terms
+longpartial,25,0,multiple unrelated words that are too long to use
+retired,25,0,crosswordese
+eh,15,1,technically valid vocabulary I'm not happy to see for unspecified reasons
+archaic,35,0,uncommon old words
+asset,60,0,sparkly fill options
+awkward,15,1,themes that are uncomfortable to put in a publication for all ages e.g. death or illness or nsfw or politics
+bad,0,1,non-words (usually nonsensical themers) that made it into the word list
+contrived,15,0,not-real terms
+contriveds,15,0,not-real plurals
+ding,30,0,terms that were explicitly asked to be edited by publications
+downer,30,0,terms that aren't fun enough for most mainstream crosswords
+hmm,39,1,words that are questionable depending on the publication
+gimmicky,39,0,entries that refer to the qualities of words rather than words themselves
+greenpaint,30,0,colocations that don't form an actual term
+inferable,35,0,words that aren't really a thing but can be inferred
+indie,20,0,words that aren't quite acceptable for a mainstream publication
+medical,25,0,overly medical terms
+playground,39,0,playground retort phrases (somewhat contrived + low cluing options)
+profane,5,0,obscene words not appropriate for general crosswords
+roman,10,0,arbitrary roman numerals
+seq,20,0,arbitrary long sequences of repeated letters (> 3)
+tech,25,0,jargon and technical terms
+temp,50,0,temporary alterations for one-off puzzles
+var,10,0,variant spellings

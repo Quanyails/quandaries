@@ -1,0 +1,14 @@
+aandw,gimmicky
+dotnet,gimmicky
+randb,gimmicky
+randd,gimmicky
+randr,gimmicky
+sandl,gimmicky
+pandl,gimmicky
+sandp,gimmicky
+bandb,gimmicky
+xsandos,gimmicky
+codotuk,gimmicky
+mandm,gimmicky
+mandms,gimmicky
+tanmandms,gimmicky

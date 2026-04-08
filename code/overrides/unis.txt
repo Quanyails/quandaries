@@ -1,0 +1,15 @@
+lsu,fineabbrev
+fsu,fineabbrev
+ksu,fineabbrev
+tsu,fineabbrev
+ucla,niftyabbrev
+nyu,niftyabbrev
+osu,niftyabbrev
+csu,fineabbrev
+byu,fineabbrev
+sdsu,fineabbrev
+hbcu,fineabbrev
+texasu,fineabbrev
+cmu,niftyabbrev
+uga,fineabbrev
+uri,finename,niftyname
