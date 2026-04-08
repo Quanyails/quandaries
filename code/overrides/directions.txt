@@ -1,0 +1,8 @@
+ene,affix,eh
+ese,affix,eh
+nne,eh
+nnw,eh
+sse,eh
+ssw,eh
+wnw,eh
+wsw,eh
